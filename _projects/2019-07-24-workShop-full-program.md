@@ -67,7 +67,7 @@ accent_color: 'red'
 </ul>
 
 
-<h5 id="fn:1">1.06 Ray path in Round Diamond (how Stereo defines Round Diamond performance)<a href="#fnref:1" class="reversefootnote"> ↩</a></h5>
+<h4 id="fn:1">1.06 Ray path in Round Diamond (how Stereo defines Round Diamond performance)<a href="#fnref:1" class="reversefootnote"> ↩</a></h4>
 
 <div class="card post__content">
 <div class="card__media">
@@ -88,7 +88,7 @@ In Chapter is described how the Tolkowsky Round works. And what will happen if w
 
 
 
-<h5 id="fn:2"><strong>1.07 Sweet Line in Round Diamonds</strong><a href="#fnref:2" class="reversefootnote"> ↩</a></h5>
+<h4 id="fn:2"><strong>1.07 Sweet Line in Round Diamonds</strong><a href="#fnref:2" class="reversefootnote"> ↩</a></h4>
 
 <div class="card post__content">
 <div class="card__description">
