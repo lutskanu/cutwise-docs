@@ -70,13 +70,16 @@ accent_color: 'red'
 <h5 id="fn:1">1.06 Ray path in Round Diamond (how Stereo defines Round Diamond performance)<a href="#fnref:1" class="reversefootnote"> ↩</a></h5>
 
 <div class="card post__content">
-<div class="card__description">
-In Chapter is described how the Tolkowsky Round works. And what will happen if we will decrease or increase diamond Pavilion angle.
-</div>
 <div class="card__media">
 <img src="/images/Stereoscopic-and-spatial-contrast-C-001.png" alt="">
 <img src="/images/Stereoscopic-and-spatial-contrast-C-002.png" alt="">
 <img src="/images/Stereoscopic-and-spatial-contrast-C-003-vs.png" alt="">
+</div>
+<div class="card__description">
+Ray path in Round Diamond (how Stereo defines Round Diamond performance).
+</div>
+<div class="card__description">
+In Chapter is described how the Tolkowsky Round works. And what will happen if we will decrease or increase diamond Pavilion angle.
 </div>
 </div>
 
