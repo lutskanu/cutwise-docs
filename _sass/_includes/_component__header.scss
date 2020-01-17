@@ -10,11 +10,17 @@
   padding: 40px 0;
 
   .header__logo {
-    display: block;
+    display: flex;
+    align-items: baseline;
     align-self: center;
-    width: $logo-width;
     position: relative;
     z-index: 10;
+  }
+
+  .header__logo__trailing {
+    position: relative;
+    top: -1px;
+    margin: 0 0 0 4px;
   }
 
   .header__title {

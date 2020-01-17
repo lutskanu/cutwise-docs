@@ -3,15 +3,13 @@ basic_settings:
   favicon_image: /images/favicon.png
 
 header_settings:
-  logo_image:
+  logo_image: '/images/logo.svg'
   logo_width: 100
 
 menu_settings:
   menu_items:
     - title: 'Workshops'
       url: '/'
-    - title: 'Blog'
-      url: '/blog/'
 
 footer_settings:
   logo_image:
@@ -19,7 +17,7 @@ footer_settings:
 #  tagline: A beautiful, minimal portfolio Jekyll theme
 
 hero_settings:
-  background_image: /images/backgrounds/background-hero.svg
+  background_image: /images/backgrounds/group.png
 
 post_settings:
   grid_spacing: 10
@@ -70,9 +68,10 @@ color_settings:
   error_color: '#D64541'
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css?family=Rubik:400,500,700|Ubuntu+Mono:400,700" rel="stylesheet">'
-  title_font: 'Rubik, sans-serif'
-  body_font: '"Ubuntu Mono", sans-serif'
+  font_embed: '<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans&display=swap" rel="stylesheet">'
+  title_font: 'IBM Plex Sans, sans-serif'
+  body_font: '"IBM Plex Sans", sans-serif'
+
   regular_weight: 400
   bold_weight: 700
   site_title:
@@ -80,7 +79,7 @@ font_settings:
     medium_size: 40
     large_size: 45
     weight: 700
-    letter_spacing: -0.02
+    letter_spacing: 0
   menu:
     small_size: 30
     medium_size: 15
@@ -91,7 +90,7 @@ font_settings:
     size: 64
     size_small: 42
     weight: 700
-    letter_spacing: -1.5
+    letter_spacing: 0
     letter_spacing_small: -1.2
     line_height: 72
     line_height_small: 48
@@ -99,7 +98,7 @@ font_settings:
     size: 48
     size_small: 36
     weight: 700
-    letter_spacing: -1.6
+    letter_spacing: 0
     letter_spacing_small: -1.04
     line_height: 56
     line_height_small: 44
@@ -107,7 +106,7 @@ font_settings:
     size: 40
     size_small: 30
     weight: 700
-    letter_spacing: -1.4
+    letter_spacing: 0
     letter_spacing_small: -0.54
     line_height: 48
     line_height_small: 36
@@ -115,7 +114,7 @@ font_settings:
     size: 32
     size_small: 28
     weight: 700
-    letter_spacing: -1
+    letter_spacing: 0
     letter_spacing_small: -0.6
     line_height: 36
   h5:
@@ -137,7 +136,7 @@ font_settings:
     size_small: 20
     weight_regular: 400
     weight_heavy: 500
-    letter_spacing: 0.16
+    letter_spacing: 0
     letter_spacing_small: 0.2
     line_height: 32
     line_height_small: 28
@@ -145,7 +144,7 @@ font_settings:
     size: 18
     size_small: 17
     weight: 400
-    letter_spacing: 0.04
+    letter_spacing: 0
     letter_spacing_small: 0
     line_height: 28
   p_small:
@@ -158,7 +157,7 @@ font_settings:
     size: 14
     small_size: 12
     weight: 500
-    letter_spacing: 0.8
+    letter_spacing: 0
     small_letter_spacing: 0.5
     line_height: 16
   footnote:
@@ -171,11 +170,11 @@ font_settings:
     medium_size: 30
     large_size: 38
     weight: 500
-    letter_spacing: -0.02
+    letter_spacing: 0
     line_height: 1.6
   buttons:
     weight: 500
-    letter_spacing: 0.4
+    letter_spacing: 0
 
 advanced_settings:
   ajax_loading: true

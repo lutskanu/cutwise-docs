@@ -29,6 +29,13 @@ featured_image: /images/social.jpg
 				May 17, Sunday Morning (9:00 AM to 1:00 PM)
 				<a href="#" class="hero__cta button--fill contact-trigger js-contact">Get In Touch</a>
 			</p>
+
+			<p class="intro subtitle--light">
+				May 15, Friday Afternoon (2:00 PM to 6:00 PM) – By Invitation Only
+				<br>
+				May 17, Sunday Morning (9:00 AM to 1:00 PM)
+				<a href="#" class="hero__cta button--fill contact-trigger js-contact">Get In Touch</a>
+			</p>
 		</div>
 	</section>
 
@@ -39,24 +46,23 @@ featured_image: /images/social.jpg
 
 			{% if project.accent_color %}{% capture accent_color %}{{ project.accent_color }}{% endcapture %}{% endif %}
 
-			<article class="project__preview">
-				<h3 class="project__title"><a href="{{ project.url | relative_url }}" style="--accent: {{ accent_color }}">{{ project.title }}</a></h3>
+				<h3 class="project__preview project__title">{{ project.title }}</h3>
 
-				<div class="project__images owl-carousel" style="--accent: {{ accent_color }}">
-					{% for image in project.gallery_images %}
-					<a href="{{ project.url | relative_url }}"><img src="{{ '/images/projects/' | relative_url}}{{ image }}" alt="" class="project__image"></a>
-					{% endfor %}
-				</div>
+				<article class="project__content {% if page.highlight_first %}highlight-first{% endif %} page-project">
 
-				<div class="project__content grid" style="border-color: {{ accent_color }}">
-					<p class="project__subtitle subtitle--light">{{ project.subtitle }}</p>
-					<p class="project__description --small">
-						{{ project.description }}
-						<a href="{{ project.url | relative_url }}" class="project__link button--text --right"
-							style="color: {{ accent_color }}; --color-var: {{ accent_color }}">View Case Study</a>
-					</p>
-				</div>
-			</article>
+					<section class="post-full">
+
+						<div class="wrap">
+
+							<article class="post__content {% if project.highlight_first %}highlight-first{% endif %}">
+								{{ project.content }}
+							</article>
+
+						</div>
+
+					</section>
+
+				</article>
 
 			{% endfor %}
 		</div>

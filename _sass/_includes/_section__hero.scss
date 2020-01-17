@@ -10,7 +10,6 @@
 	padding: 40px 0 160px;
 
 	.wrap {
-		grid-gap: 0;
 	}
 
 	.title {
@@ -60,7 +59,7 @@
 .hero__background {
 	display: block;
 	position: absolute;
-	top: 0px;
+	top: 230px;
 	left: 50%;
 	transform: translateX(-50%);
 	z-index: -1;
