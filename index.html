@@ -1,8 +1,8 @@
 ---
 layout: default
-overtitle: Made is a Jekyll theme
-title: For designers and web developers
-description: Show off your best work with this beautiful, minimal and customizable portfolio theme.
+overtitle: May 15-17, 2020
+title: Optical Performance Workshop
+description: Intermediate Diamond Workshop on 6th Mediterranean Gem and Jewellery Conference in Thessaloniki, Greece!
 featured_image: /images/social.jpg
 ---
 
@@ -21,6 +21,12 @@ featured_image: /images/social.jpg
 
 			<p class="intro subtitle--light">
 				{{ page.description }}
+				<br>
+				For appraisers, all levels diamond trade, gemologists, strategic analysts, designers
+				<br>
+				May 15, Friday Afternoon (2:00 PM to 6:00 PM) – By Invitation Only
+				<br>
+				May 17, Sunday Morning (9:00 AM to 1:00 PM)
 				<a href="#" class="hero__cta button--fill contact-trigger js-contact">Get In Touch</a>
 			</p>
 		</div>
@@ -56,22 +62,4 @@ featured_image: /images/social.jpg
 		</div>
 	</section>
 
-	{% include section__about.html %}
-
-	<section class="recent-posts">
-		<div class="wrap grid">
-			<header class="recent-posts__header">
-				<h4>Recent blog posts</h4>
-				<a href="{{ '/blog' | relative_url }}" class="action button--text--accent --right">All Posts</a>
-			</header>
-
-			<div class="recent-posts__list grid">
-				{% for post in site.posts limit: 3 %}
-				{% include component__post-preview.html %}
-				{% endfor %}
-			</div>
-
-			<a href="{{ '/blog' | relative_url }}" class="action-bottom button--text--accent --right">All Posts</a>
-		</div>
-	</section>
 </div>

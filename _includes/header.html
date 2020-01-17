@@ -8,7 +8,10 @@
 		</a>
 		{% else %}
 		<a href="{{ site.baseurl }}/" class="header__title">
-			{{ site.data.settings.basic_settings.site_title }}
+			<span>
+				<img src="/images/logo.svg" alt="">
+				{{ site.data.settings.basic_settings.site_title }}
+			</span>
 		</a>
 		{% endif %}
 

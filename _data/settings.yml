@@ -1,22 +1,22 @@
 basic_settings:
-  site_title: Made
+  site_title: docs
   favicon_image: /images/favicon.png
 
 header_settings:
-  logo_image: 
+  logo_image:
   logo_width: 100
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
+    - title: 'Workshops'
       url: '/'
     - title: 'Blog'
       url: '/blog/'
 
 footer_settings:
-  logo_image: 
+  logo_image:
   logo_width: 100
-  tagline: A beautiful, minimal portfolio Jekyll theme
+#  tagline: A beautiful, minimal portfolio Jekyll theme
 
 hero_settings:
   background_image: /images/backgrounds/background-hero.svg
@@ -76,7 +76,7 @@ font_settings:
   regular_weight: 400
   bold_weight: 700
   site_title:
-    small_size: 30
+    small_size: 16
     medium_size: 40
     large_size: 45
     weight: 700

@@ -20,19 +20,11 @@
 	    line-height: 1;
 	    color: $text-dark-color;
 
-	    @include mq(tabletp) {
-	      font-size: $sitetitle-medium;
-	    }
-
-	    @include mq(laptop) {
-	      font-size: $sitetitle-large;
-	    }
-
 	    &:hover {
 	      color: $accent-color;
 	    }
 	}
-	
+
 	.footer__copyright {
 
 		@include mq(tabletp) {
@@ -56,7 +48,7 @@
 		.footer__logo {
 			justify-self: start;
 		}
-		
+
 		.footer__copyright {
 			justify-self: end;
 		}

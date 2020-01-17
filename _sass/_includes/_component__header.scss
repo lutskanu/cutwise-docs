@@ -25,14 +25,6 @@
     line-height: 1;
     color: $text-dark-color;
 
-    @include mq(tabletp) {
-      font-size: $sitetitle-medium;
-    }
-
-    @include mq(laptop) {
-      font-size: $sitetitle-large;
-    }
-
     &:hover {
       color: $accent-color;
     }
@@ -196,7 +188,7 @@
 
     .menu__list__item {
       margin-bottom: 0px;
-      
+
       &:not(:first-child) {
         margin-left: 50px;
       }
