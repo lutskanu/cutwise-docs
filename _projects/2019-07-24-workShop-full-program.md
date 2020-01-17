@@ -67,7 +67,6 @@ accent_color: 'red'
 </ul>
 
 
-<div class="project__images owl-carousel owl-loaded owl-drag" style="--accent: #4C60E6">
 
 
 
@@ -76,6 +75,8 @@ accent_color: 'red'
 
 
 <h5 id="fn:1">1.06 Ray path in Round Diamond (how Stereo defines Round Diamond performance)<a href="#fnref:1" class="reversefootnote"> ↩</a></h5>
+
+<div class="project__images owl-carousel owl-loaded owl-drag" style="--accent: #4C60E6">
 
 <div class="owl-stage-outer owl-height" style="height: 602.563px;">
   <div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 4640px;">
@@ -117,6 +118,7 @@ accent_color: 'red'
   <button class="owl-dot">
     <span></span>
   </button>
+</div>
 </div>
 
 <div class="project__content grid" style="border-color: #4C60E6">
