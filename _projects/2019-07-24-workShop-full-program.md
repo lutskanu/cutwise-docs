@@ -67,71 +67,6 @@ accent_color: 'red'
 </ul>
 
 
-
-
-
-
-
-
-
-<h5 id="fn:1">1.06 Ray path in Round Diamond (how Stereo defines Round Diamond performance)<a href="#fnref:1" class="reversefootnote"> ↩</a></h5>
-
-<div class="project__images owl-carousel owl-loaded owl-drag" style="--accent: #4C60E6">
-
-<div class="owl-stage-outer owl-height" style="height: 602.563px;">
-  <div class="owl-stage" style="transform: translate3d(0px, 0px, 0px); transition: all 0s ease 0s; width: 4640px;">
-    <div class="owl-item active" style="width: 1140px; margin-right: 20px;">
-      <a href="/blog/ray-path-in-round-diamond"><img src="/images/demo_1.png" alt="" class="project__image"></a>
-    </div>
-    <div class="owl-item" style="width: 1140px; margin-right: 20px;">
-      <a href="/blog/ray-path-in-round-diamond"><img src="/images/demo_1.png" alt="" class="project__image"></a>
-    </div>
-    <div class="owl-item" style="width: 1140px; margin-right: 20px;">
-      <a href="/blog/ray-path-in-round-diamond"><img src="/images/demo_1.png" alt="" class="project__image"></a>
-    </div>
-    <div class="owl-item" style="width: 1140px; margin-right: 20px;">
-      <a href="/blog/ray-path-in-round-diamondp"><img src="/images/demo_1.png" alt="" class="project__image"></a>
-    </div>
-  </div>
-</div>
-
-<div class="owl-nav disabled">
-  <button role="presentation" class="owl-prev">
-    <span aria-label="prev"></span>
-  </button>
-  <button role="presentation" class="owl-next">
-    <span aria-label="next">
-    </span>
-  </button>
-</div>
-
-<div class="owl-dots">
-  <button class="owl-dot active">
-    <span></span>
-  </button>
-  <button class="owl-dot">
-    <span></span>
-  </button>
-  <button class="owl-dot">
-    <span></span>
-  </button>
-  <button class="owl-dot">
-    <span></span>
-  </button>
-</div>
-</div>
-
-<div class="project__content grid" style="border-color: #4C60E6">
-	<p class="project__subtitle subtitle--light">Ray path in Round Diamond (how Stereo defines Round Diamond performance).</p>
-	<p class="project__description --small">
-	  In Chapter is described how the Tolkowsky Round works. And what will happen if we will decrease or increase diamond Pavilion angle.
-	  <a href="/blog/ray-path-in-round-diamond" class="project__link button--text --right" style="color: #4C60E6; --color-var: #4C60E6">Read more</a>
-	</p>
-</div>
-
-
-
-
 <h5 id="fn:1">1.06 Ray path in Round Diamond (how Stereo defines Round Diamond performance)<a href="#fnref:1" class="reversefootnote"> ↩</a></h5>
 
 <div class="card post__content">
@@ -139,11 +74,16 @@ accent_color: 'red'
 In Chapter is described how the Tolkowsky Round works. And what will happen if we will decrease or increase diamond Pavilion angle.
 </div>
 <div class="card__media">
-<img src="/images/demo_1.png" alt="">
+<img src="/images/Stereoscopic-and-spatial-contrast-C-001.png" alt="">
+<img src="/images/Stereoscopic-and-spatial-contrast-C-002.png" alt="">
+<img src="/images/Stereoscopic-and-spatial-contrast-C-003-vs.png" alt="">
 </div>
 </div>
 
-<a class="project__link button--text --right" href="/blog/ray-path-in-round-diamond" class="post__link button--text--accent">Read more</a>
+<a href="/blog/ray-path-in-round-diamond" class="project__link button--text --right" style="color: #4C60E6; --color-var: #4C60E6">Read more</a>
+
+
+
 
 <h5 id="fn:2"><strong>1.07 Sweet Line in Round Diamonds</strong><a href="#fnref:2" class="reversefootnote"> ↩</a></h5>
 
