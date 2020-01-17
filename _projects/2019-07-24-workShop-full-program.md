@@ -66,20 +66,7 @@ accent_color: 'red'
   
 </ul>
 
-<h3 id="fn:1"><strong>1.06 Ray path in Round Diamond (how Stereo defines Round Diamond performance)</strong><a href="#fnref:1" class="reversefootnote"> ↩</a></h3>
-
-<div class="card post__content">
-<div class="card__description">
-In Chapter is described how the Tolkowsky Round works. And what will happen if we will decrease or increase diamond Pavilion angle.
-</div>
-<div class="card__media">
-<img src="/images/demo_1.png" alt="">
-</div>
-</div>
-
-<a href="/blog/demo-post" class="post__link button--text--accent">Keep Reading</a>
-
-<h3 id="fn:2"><strong>1.07 Sweet Line in Round Diamonds</strong><a href="#fnref:2" class="reversefootnote"> ↩</a></h3>
+<h4 id="fn:1"><strong>1.06 Ray path in Round Diamond (how Stereo defines Round Diamond performance)</strong><a href="#fnref:1" class="reversefootnote"> ↩</a></h4>
 
 <div class="card post__content">
 <div class="card__description">
@@ -91,3 +78,16 @@ In Chapter is described how the Tolkowsky Round works. And what will happen if w
 </div>
 
 <a href="/blog/ray-path-in-round-diamond" class="post__link button--text--accent">Keep Reading</a>
+
+<h4 id="fn:2"><strong>1.07 Sweet Line in Round Diamonds</strong><a href="#fnref:2" class="reversefootnote"> ↩</a></h4>
+
+<div class="card post__content">
+<div class="card__description">
+In Chapter is described how the Tolkowsky Round works. And what will happen if we will decrease or increase diamond Pavilion angle.
+</div>
+<div class="card__media">
+<img src="/images/demo_1.png" alt="">
+</div>
+</div>
+
+<a href="/blog/demo-post" class="post__link button--text--accent">Keep Reading</a>
