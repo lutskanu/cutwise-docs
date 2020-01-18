@@ -1,16 +1,33 @@
 ---
-title: Ray path in Round Diamond
-date: 2019-06-30 00:00:00
-description: This is a demo post that shows what you can do inside portfolio and blog posts. We’ve included everything you need to create engaging posts and case studies to show off your work in a beautiful way.
-featured_image: '/images/demo.jpg'
+title: Ray path in Round Diamond. How Stereo defines Round Diamond performance
+date: 2020-01-15 00:00:00
+description: Let’s consider optical theory for arrow facet under the table. Right eye see white flash reflected from the light source on the right.
+
+featured_image: '/images/page1-pic1.png'
 ---
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
-This page is a demo that shows everything you can do inside portfolio and blog posts.
+Let’s consider optical theory for arrow facet under the table. Right eye see white flash reflected from the light source on the right.
 
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
+![](/images/page1-pic1.png)
 
-![](/images/demo.jpg)
+
+The same area is black for left eye, because it **see the observer’s head reflection**.
+
+So in one area of space our eye see very different and contradictive images:
+* white light source reflection flash
+* and black head reflection.
+Difference in signal intensity is more than 1000 times.
+
+![](/images/page1-pic2.png)
+
+
+#### How Round Diamond Cut works?
+
+We described how the Tolkowsky Round works. Let’s check now Rounds with different proportions. What will happened if we will decrease or increase Pavilion angle
+
+![](/images/page1-pic3-hearts.png)
+
+
 
 **Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
