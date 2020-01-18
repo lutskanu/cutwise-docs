@@ -96,7 +96,16 @@ So deep diamond has selected facet white in both eyes. We already considered thi
 	"
 %}
 
+Let’s summarize what we have found.
+If we change Pa from Tolkowsky then we reduce Binocular rivalry of the Round cut.
+(Pa 39.8 both eyes see black, Pa 41.8 both eyes see white).
 
+{% include post-components/gallery.html
+	columns = 2
+	full_width = true
+	images = "/images/page1-pic14.png,/images/page1-pic15.png,/images/page1-pic16.png,
+	"
+%}
 
 
 **Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
