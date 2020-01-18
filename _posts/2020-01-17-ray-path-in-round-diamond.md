@@ -26,6 +26,9 @@ What will happened if we will decrease or increase Pavilion angle.
 
 <p align="center">
 Tolkowsky
+</p>
+
+<p align="center">
 <iframe
     name="Cutwise Player"
     width="480"
@@ -34,16 +37,19 @@ Tolkowsky
     src="https://widget.cutwise.com/video/37814?sp=11"
     allowfullscreen
 ></iframe>
+</p>
+<p align="center">
 Ca 34.5, Pa 40.8
 </p>
 
 We will check two shallower stones. One with Pa 39.6 and another very shallow.
 And two deeper stones: one with Pa 41.6, and another very deep “Nail Head” diamond.
 
+<p align="center">
 | Very Shallow    | Shallow | Tolkowsky              | Deep   | “Nail Head” |
 | <iframe name="Cutwise Player" width="480" height="480" frameborder="0" src="https://widget.cutwise.com/video/37814?sp=11" allowfullscreen></iframe>   | <iframe name="Cutwise Player" width="480" height="480" frameborder="0" src="https://widget.cutwise.com/video/37814?sp=11" allowfullscreen></iframe> | <iframe name="Cutwise Player" width="480" height="480" frameborder="0" src="https://widget.cutwise.com/video/37814?sp=11" allowfullscreen></iframe>   | <iframe name="Cutwise Player" width="480" height="480" frameborder="0" src="https://widget.cutwise.com/video/37814?sp=11" allowfullscreen></iframe>  |    <iframe name="Cutwise Player" width="480" height="480" frameborder="0" src="https://widget.cutwise.com/video/37814?sp=11" allowfullscreen></iframe>     |
 | Ca 25 Pa 39 | Ca 34.5, Pa 39.6 | Ca 34.5, Pa 40.8   | Ca 34.5, Pa 41.8   | Ca 34.5, Pa 43.6 |
-
+</p>
 
 
 
