@@ -3,29 +3,36 @@ title: Ray path in Round Diamond. How Stereo defines Round Diamond performance
 date: 2020-01-15 00:00:00
 description: Let’s consider optical theory for arrow facet under the table. Right eye see white flash reflected from the light source on the right.
 
-featured_image: '/images/page1-pic1.png'
+featured_image: ''
 ---
 
 Let’s consider optical theory for arrow facet under the table. Right eye see white flash reflected from the light source on the right.
 
 ![](/images/page1-pic1.png)
 
-
 The same area is black for left eye, because it **see the observer’s head reflection**.
 
 So in one area of space our eye see very different and contradictive images:
-* white light source reflection flash
-* and black head reflection.
+* — white light source reflection flash
+* — and black head reflection.
 Difference in signal intensity is more than 1000 times.
 
 ![](/images/page1-pic2.png)
-
 
 #### How Round Diamond Cut works?
 
 We described how the Tolkowsky Round works. Let’s check now Rounds with different proportions. What will happened if we will decrease or increase Pavilion angle
 
-![](/images/page1-pic3-hearts.png)
+Tolkowsky
+<iframe
+    name="Cutwise Player"
+    width="480"
+    height="480"
+    frameborder="0"
+    src="https://widget.cutwise.com/video/37814?sp=11"
+    allowfullscreen
+></iframe>
+Ca 34.5, Pa 40.8
 
 
 
