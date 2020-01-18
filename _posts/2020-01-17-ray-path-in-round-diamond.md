@@ -101,11 +101,34 @@ If we change Pa from Tolkowsky then we reduce Binocular rivalry of the Round cut
 (Pa 39.8 both eyes see black, Pa 41.8 both eyes see white).
 
 {% include post-components/gallery.html
-	columns = 2
+	columns = 1
 	full_width = true
-	images = "/images/page1-pic14.png,/images/page1-pic15.png,/images/page1-pic16.png,
+	images = "/images/page1-pic14.png,/images/page1-pic15.png,/images/page1-pic16.png
 	"
 %}
+
+#### Diamonds Tilt 10º ± 5º From Face-up Position
+
+Another very important feature – is the **Facet Speed** during the diamond tilting related with Temporal contrast.
+When consumer rocks the diamond during the observation – the ray path for facets changes as we can see on the video. Diamond scans the surrounding space and reflects light sources to the observer.
+
+{% include post-components/video.html
+	url = "https://youtu.be/mtxdfLGxKqE"
+	full_width = true
+%}
+
+{% include post-components/video.html
+	url = "https://youtu.be/NtKn8Gplz5Q"
+	full_width = true
+%}
+
+In this demonstration we tilt diamond by 10 degrees. Very shallow diamond and nail head reflects the same area in space during this rotation. It means that these stones reflection of observer’s head is very stable. And even during rotation they will remain black creating ”Dead zones” effect (areas in diamond that always remain black). This results very bad performance of these stones.
+
+Shallow diamond change ray path angle by 1.7 degrees.
+Tolkowsky displays 4.3 degrees ray angle variation. And Deep stone has highest value among selected stones.
+
+Generally high flash speed during the stone rotation is positive as it allows diamond to produce flashes more often.
+
 
 
 **Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
