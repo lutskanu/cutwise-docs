@@ -21,8 +21,10 @@ Difference in signal intensity is more than 1000 times.
 
 #### How Round Diamond Cut works?
 
-We described how the Tolkowsky Round works. Let’s check now Rounds with different proportions. What will happened if we will decrease or increase Pavilion angle
+We described how the Tolkowsky Round works. Let’s check now Rounds with different proportions.
+What will happened if we will decrease or increase Pavilion angle.
 
+<p align="center">
 Tolkowsky
 <iframe
     name="Cutwise Player"
@@ -33,6 +35,14 @@ Tolkowsky
     allowfullscreen
 ></iframe>
 Ca 34.5, Pa 40.8
+</p>
+
+We will check two shallower stones. One with Pa 39.6 and another very shallow.
+And two deeper stones: one with Pa 41.6, and another very deep “Nail Head” diamond.
+
+| Very Shallow    | Shallow | Tolkowsky              | Deep   | “Nail Head” |
+| Index Jekyll Theme   | Jekyll Themes | Yes              | $49   |
+| Journal Jekyll Theme | Jekyll Themes | Yes              | $49   |
 
 
 
