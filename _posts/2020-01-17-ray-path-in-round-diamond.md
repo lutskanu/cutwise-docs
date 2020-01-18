@@ -45,10 +45,57 @@ Ca 34.5, Pa 40.8
 We will check two shallower stones. One with Pa 39.6 and another very shallow.
 And two deeper stones: one with Pa 41.6, and another very deep “Nail Head” diamond.
 
-|   |  |               |    |    |
 | Very Shallow    | Shallow | Tolkowsky              | Deep   | “Nail Head” |
 | <iframe name="Cutwise Player" width="240" height="240" frameborder="0" src="https://widget.cutwise.com/video/37814?sp=11" allowfullscreen></iframe>   | <iframe name="Cutwise Player" width="240" height="240" frameborder="0" src="https://widget.cutwise.com/video/37814?sp=11" allowfullscreen></iframe> | <iframe name="Cutwise Player" width="240" height="240" frameborder="0" src="https://widget.cutwise.com/video/37814?sp=11" allowfullscreen></iframe>   | <iframe name="Cutwise Player" width="240" height="240" frameborder="0" src="https://widget.cutwise.com/video/37814?sp=11" allowfullscreen></iframe>  |    <iframe name="Cutwise Player" width="240" height="240" frameborder="0" src="https://widget.cutwise.com/video/37814?sp=11" allowfullscreen></iframe>     |
 | Ca 25 Pa 39 | Ca 34.5, Pa 39.6 | Ca 34.5, Pa 40.8   | Ca 34.5, Pa 41.8   | Ca 34.5, Pa 43.6 |
+
+Now let’s check shallow diamond. It return the ray from Right eye directly to the observer head. So marked arrow is black.
+
+Left eye also see black, because of observer’s body reflection.
+So both eyes see black and reflects observer head. This is worst case scenario. Arrows in such stone in completely black (because there is no chance to have a light source in observer’s head area).
+
+{% include post-components/gallery.html
+	columns = 2
+	full_width = true
+	images = "/images/page1-pic6.png,/images/page1-pic7.png,
+	"
+%}
+
+Very shallow stone show different ray path. It will reflect light source that on the left side of observer (note that it is different from Tolkowsky).
+
+And for left eye also we see light source that is on the left side of the observer.
+In very shallow diamond selected facet is white in both eyes.
+So the diamond has high objective brightness. But it lacks contrast, and thus loses in Brilliance.
+
+{% include post-components/gallery.html
+	columns = 2
+	full_width = true
+	images = "/images/page1-pic8.png,/images/page1-pic9.png,
+	"
+%}
+
+Deep diamond will act close to Tolkowsky, but will reflect Light source from much steeper angle
+
+So deep diamond has selected facet white in both eyes. We already considered this case earlier.
+
+{% include post-components/gallery.html
+	columns = 2
+	full_width = true
+	images = "/images/page1-pic10.png,/images/page1-pic11.png,
+	"
+%}
+
+Nail head stone will give full internal reflection and redirect light to the observer head.
+
+So deep diamond has selected facet white in both eyes. We already considered this case earlier.
+
+{% include post-components/gallery.html
+	columns = 2
+	full_width = true
+	images = "/images/page1-pic12.png,/images/page1-pic13.png,
+	"
+%}
+
 
 
 
