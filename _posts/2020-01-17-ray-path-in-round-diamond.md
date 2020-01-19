@@ -141,13 +141,13 @@ When consumer rocks the diamond during the observation – the ray path for face
 <video width="100%" preload="auto" autoplay="true" loop="true" muted="muted"><source src="http://files-cdn.cutwise.com/Video/ASET-compilation.mp4"></video>
 
 <table width="100%">
-  <tr align="left">
-    <td widht="10%">Ray Tilt</td>
+  <tr>
+    <td>Ray Tilt</td>
     <td>0.1º</td>
     <td>1.7º</td>
     <td>4.3º</td>
     <td>12.8º</td>
-    <td widht="15%">0.7º</td>
+    <td>0.7º</td>
   </tr>
 </table>
 
