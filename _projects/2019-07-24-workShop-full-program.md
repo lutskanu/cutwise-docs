@@ -137,6 +137,8 @@ Side by side comparison can help consumers select diamond according to their own
 </div>
 <div class="card__media">
 </div>
+</div>
+
 <p align="center">
 <iframe
     name="Cutwise Player"
@@ -155,6 +157,5 @@ Side by side comparison can help consumers select diamond according to their own
     allowfullscreen
 ></iframe>
 </p>
-</div>
 
 <a href="/blog/dibox-jd" class="project__link button--text --right" style="color: #4C60E6; --color-var: #4C60E6">Read more</a>
