@@ -74,7 +74,7 @@ accent_color: 'red'
 {% include post-components/gallery.html
 	columns = 2
 	full_width = true
-	images = "/images/Stereoscopic-and-spatial-contrast-C-001.png,/images/Stereoscopic-and-spatial-contrast-C-002.png,
+	images = "/images/Stereoscopic-and-spatial-contrast-C-001.png
 	"
 %}
 </div>
