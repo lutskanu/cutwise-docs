@@ -121,7 +121,7 @@ Find out what is Apparent size and how this parameter can be used for diamond se
 DiBox JD is special observation box that allow consumer comfortably enjoy different facets of Diamond beauty and Compare diamonds side by side.
 </div>
 <div class="card__media">
-<img src="/images/spread-illustration-00.jpg" alt="">
+<img src="/images/Cutwise-Live-gold-03012019.png" alt="">
 </div>
 </div>
 
