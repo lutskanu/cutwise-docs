@@ -120,16 +120,14 @@ When consumer rocks the diamond during the observation – the ray path for face
 
 <table width="100%">
   <tr>
+    <td align="left">Ray Tilt</td>
     <td align="center">0.1º</td>
-    <td align="center">0.1º</td>
-    <td align="center">0.1º</td>
-    <td align="center">0.1º</td>
-    <td align="center">0.1º</td>
+    <td align="center">1.7º</td>
+    <td align="center">4.3º</td>
+    <td align="center">12.8º</td>
+    <td align="center">0.7º</td>
   </tr>
 </table>
-
-|      0.1º     |                1.7º           |        4.3º        |           12.8º        |           0.7º  |
-
 
 In this demonstration we tilt diamond by 10 degrees. Very shallow diamond and nail head reflects the same area in space during this rotation. It means that these stones reflection of observer’s head is very stable. And even during rotation they will remain black creating ”Dead zones” effect (areas in diamond that always remain black). This results very bad performance of these stones.
 
