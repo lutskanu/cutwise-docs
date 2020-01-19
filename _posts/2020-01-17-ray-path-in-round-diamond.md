@@ -119,9 +119,13 @@ When consumer rocks the diamond during the observation – the ray path for face
 <video width="100%" preload="auto" autoplay="true" loop="true" muted="muted"><source src="http://files-cdn.cutwise.com/Video/ASET-compilation.mp4"></video>
 
 <table width="100%">
-<ul align="center">0.1º</ul>
-<ul align="center">0.1º</ul>
-<ul align="center">0.1º</ul>
+  <tr>
+    <td align="center">0.1º</td>
+    <td align="center">0.1º</td>
+    <td align="center">0.1º</td>
+    <td align="center">0.1º</td>
+    <td align="center">0.1º</td>
+  </tr>
 </table>
 
 |      0.1º     |                1.7º           |        4.3º        |           12.8º        |           0.7º  |
