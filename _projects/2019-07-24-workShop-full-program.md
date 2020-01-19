@@ -58,9 +58,9 @@ accent_color: 'red'
   
   <li>5. DiBox JD</li>
   <ul>
-  <li><a class="project__link button--text --right" style="color: #4C60E6; --color-var: #4C60E6" id="fnref:4" href="#fn:4">5.01 Introduction to DiBox JD</a></strong></li>
+  <li><strong><a class="project__link button--text --right" style="color: #4C60E6; --color-var: #4C60E6" id="fnref:4" href="#fn:4">5.01 Introduction to DiBox JD</a></strong></li>
   <li>5.02 Diamond real time observation in Jewelry Store</li>
-  <li><a class="project__link button--text --right" style="color: #4C60E6; --color-var: #4C60E6" id="fnref:5" href="#fn:5">5.03 Live comparison of two stones in DiBox JD</a></strong></li>
+  <li><strong><a class="project__link button--text --right" style="color: #4C60E6; --color-var: #4C60E6" id="fnref:5" href="#fn:5">5.03 Live comparison of two stones in DiBox JD</a></strong></li>
   <li>5.04 Diamond Selection in DiBox JD. Customer choice confirmation.</li>
   </ul>
   
