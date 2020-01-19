@@ -47,9 +47,31 @@ Ca 34.5, Pa 40.8
 We will check two shallower stones. One with Pa 39.6 and another very shallow.
 And two deeper stones: one with Pa 41.6, and another very deep “Nail Head” diamond.
 
-| Very Shallow    | Shallow | Tolkowsky              | Deep   | “Nail Head” |
-| <iframe name="Cutwise Player" width="240" height="240" frameborder="0" src="https://widget.cutwise.com/video/37814?sp=11" allowfullscreen></iframe>   | <iframe name="Cutwise Player" width="240" height="240" frameborder="0" src="https://widget.cutwise.com/video/37814?sp=11" allowfullscreen></iframe> | <iframe name="Cutwise Player" width="240" height="240" frameborder="0" src="https://widget.cutwise.com/video/37814?sp=11" allowfullscreen></iframe>   | <iframe name="Cutwise Player" width="240" height="240" frameborder="0" src="https://widget.cutwise.com/video/37814?sp=11" allowfullscreen></iframe>  |    <iframe name="Cutwise Player" width="240" height="240" frameborder="0" src="https://widget.cutwise.com/video/37814?sp=11" allowfullscreen></iframe>     |
-| Ca 25 Pa 39 | Ca 34.5, Pa 39.6 | Ca 34.5, Pa 40.8   | Ca 34.5, Pa 41.8   | Ca 34.5, Pa 43.6 |
+<table align="center" width="100%">
+  <tr>
+    <td>Very Shallow</td>
+    <td>Shallow</td>
+    <td>Tolkowsky</td>
+    <td>Deep</td>
+    <td>“Nail Head”</td>
+  </tr>
+
+   <tr>
+     <td><iframe name="Cutwise Player" width="240" height="240" frameborder="0" src="https://widget.cutwise.com/video/37814?sp=11" allowfullscreen></iframe></td>
+     <td><iframe name="Cutwise Player" width="240" height="240" frameborder="0" src="https://widget.cutwise.com/video/37814?sp=11" allowfullscreen></iframe></td>
+     <td><iframe name="Cutwise Player" width="240" height="240" frameborder="0" src="https://widget.cutwise.com/video/37814?sp=11" allowfullscreen></iframe></td>
+     <td><iframe name="Cutwise Player" width="240" height="240" frameborder="0" src="https://widget.cutwise.com/video/37814?sp=11" allowfullscreen></iframe></td>
+     <td><iframe name="Cutwise Player" width="240" height="240" frameborder="0" src="https://widget.cutwise.com/video/37814?sp=11" allowfullscreen></iframe></td>
+   </tr>
+
+   <tr>
+     <td>Ca 25 Pa 39</td>
+     <td>Ca 34.5, Pa 39.6</td>
+     <td>Ca 34.5, Pa 40.8</td>
+     <td>Ca 34.5, Pa 41.8</td>
+     <td>Ca 34.5, Pa 43.6</td>
+   </tr>
+</table>
 
 Now let’s check shallow diamond. It return the ray from Right eye directly to the observer head. So marked arrow is black.
 
