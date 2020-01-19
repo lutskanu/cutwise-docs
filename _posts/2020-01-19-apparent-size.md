@@ -50,6 +50,6 @@ Round with Same Face up Area as Cushion has weight 0.78ct
 {% include post-components/gallery.html
 	columns = 1
 	full_width = true
-	images = "/images/page-spread-illustration-06.png,/images/page-spread-illustration-07.png,/images/page-spread-illustration-08.png,
+	images = "/images/page-spread-illustration-06.png,/images/page-spread-illustration-07.png,/images/page-spread-illustration-08.png
 	"
 %}
