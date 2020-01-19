@@ -18,6 +18,9 @@ Diamond with the same weight can have different visible size depending on their 
 
 Consider Apparent size for 1 ct Marquise
 
+![](/images/page-spread-illustration-01.png)
+
+
 
 
 In Chapter is described how the Tolkowsky Round works. And what will happen if we will decrease or increase diamond Pavilion angle.
