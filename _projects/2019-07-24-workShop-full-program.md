@@ -71,7 +71,12 @@ accent_color: 'red'
 
 <div class="card post__content">
 <div class="card__media">
-<img src="/images/Stereoscopic-and-spatial-contrast-C-001.png" alt=""><img src="/images/Stereoscopic-and-spatial-contrast-C-002.png" alt=""><img src="/images/Stereoscopic-and-spatial-contrast-C-003-vs.png" alt="">
+{% include post-components/gallery.html
+	columns = 2
+	full_width = true
+	images = "/images/Stereoscopic-and-spatial-contrast-C-001.png,/images/Stereoscopic-and-spatial-contrast-C-002.png,
+	"
+%}
 </div>
 <div class="card__description">
 Ray path in Round Diamond (how Stereo defines Round Diamond performance).
