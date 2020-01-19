@@ -118,6 +118,9 @@ When consumer rocks the diamond during the observation – the ray path for face
 <video width="100%" preload="auto" autoplay="true" loop="true" muted="muted"><source src="http://files-cdn.cutwise.com/Video/Ray-path-05_1.mp4"></video>
 <video width="100%" preload="auto" autoplay="true" loop="true" muted="muted"><source src="http://files-cdn.cutwise.com/Video/ASET-compilation.mp4"></video>
 
+|      0.1º     |                1.7º           |        4.3º        |           12.8º        |           0.7º  |
+
+
 In this demonstration we tilt diamond by 10 degrees. Very shallow diamond and nail head reflects the same area in space during this rotation. It means that these stones reflection of observer’s head is very stable. And even during rotation they will remain black creating ”Dead zones” effect (areas in diamond that always remain black). This results very bad performance of these stones.
 
 Shallow diamond change ray path angle by 1.7 degrees.
