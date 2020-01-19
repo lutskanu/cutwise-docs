@@ -136,12 +136,10 @@ Side by side comparison can help consumers select diamond according to their own
 </div>
 </div>
 
-|<p align="center"><iframe name="Cutwise Player" width="100%" frameborder="0" src="https://widget.cutwise.com/video/37626?sp=43" allowfullscreen></iframe></p> | <p align="center"><iframe name="Cutwise Player" width="100%" frameborder="0" src="https://widget.cutwise.com/video/37627?sp=43" allowfullscreen></iframe></p> |
-
-<table width="100%">
+<table width="100%" max-height="480px">
   <tr>
-    <td><iframe name="Cutwise Player" width="100%" frameborder="0" src="https://widget.cutwise.com/video/37626?sp=43" allowfullscreen></iframe></td>
-    <td><iframe name="Cutwise Player" width="100%" frameborder="0" src="https://widget.cutwise.com/video/37627?sp=43" allowfullscreen></iframe></td>
+    <td><iframe name="Cutwise Player" width="100%" height="100%" frameborder="0" src="https://widget.cutwise.com/video/37626?sp=43" allowfullscreen></iframe></td>
+    <td><iframe name="Cutwise Player" width="100%" height="100%" frameborder="0" src="https://widget.cutwise.com/video/37627?sp=43" allowfullscreen></iframe></td>
   </tr>
 </table>
 
