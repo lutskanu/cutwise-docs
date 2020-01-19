@@ -120,12 +120,12 @@ When consumer rocks the diamond during the observation – the ray path for face
 
 <table width="100%">
   <tr>
-    <td align="left">Ray Tilt</td>
-    <td align="center">0.1º</td>
-    <td align="center">1.7º</td>
-    <td align="center">4.3º</td>
-    <td align="center">12.8º</td>
-    <td align="center">0.7º</td>
+    <td align="left" widht="10%">Ray Tilt</td>
+    <td>0.1º</td>
+    <td>1.7º</td>
+    <td>4.3º</td>
+    <td>12.8º</td>
+    <td widht="15%">0.7º</td>
   </tr>
 </table>
 
