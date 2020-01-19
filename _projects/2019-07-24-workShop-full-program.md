@@ -79,9 +79,6 @@ accent_color: 'red'
 %}
 </div>
 <div class="card__description">
-Ray path in Round Diamond (how Stereo defines Round Diamond performance).
-</div>
-<div class="card__description">
 In Chapter is described how the Tolkowsky Round works. And what will happen if we will decrease or increase diamond Pavilion angle.
 </div>
 </div>
