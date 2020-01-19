@@ -27,7 +27,7 @@ accent_color: 'red'
   <li>1.08 Fire</li>
   <li>1.09 Brilliance</li>
   <li>1.10 Custom Grading for Optical Performance & Color</li>
-  <li>1.11 Apparent Size</li>
+  <li><strong><a class="project__link button--text --right" style="color: #4C60E6; --color-var: #4C60E6" id="fnref:3" href="#fn:3">1.11 Apparent Size</a></strong></li>
   <li>1.12 Table Color</li>
   <li>1.13 Influence of lighting environment properties on Diamond Beauty</li>
   <li>1.14 Diamond size impact. Solitaire and melee setting.</li>
@@ -95,8 +95,36 @@ In Chapter is described how the Tolkowsky Round works. And what will happen if w
 In Chapter is described how the Tolkowsky Round works. And what will happen if we will decrease or increase diamond Pavilion angle.
 </div>
 <div class="card__media">
-<img src="/images/demo_1.png" alt="">
+<img src="/images/Office-04-SL.jpg" alt="">
 </div>
 </div>
 
-<a href="/blog/demo-post" class="post__link button--text--accent">Keep Reading</a>
+<a href="/blog/demo-post" class="project__link button--text --right" style="color: #4C60E6; --color-var: #4C60E6">Read more</a>
+
+
+<h4 id="fn:3"><strong>1.11 Apparent Size</strong><a href="#fnref:3" class="reversefootnote"> ↩</a></h4>
+
+<div class="card post__content">
+<div class="card__description">
+Find out what is Apparent size and how this parameter can be used for diamond selection
+</div>
+<div class="card__media">
+<img src="/images/spread-illustration-00.jpg" alt="">
+</div>
+</div>
+
+<a href="/blog/apparent-size" class="project__link button--text --right" style="color: #4C60E6; --color-var: #4C60E6">Read more</a>
+
+
+<h4 id="fn:4"><strong>5.01 Introduction to DiBox JD</strong><a href="#fnref:4" class="reversefootnote"> ↩</a></h4>
+
+<div class="card post__content">
+<div class="card__description">
+DiBox JD is special observation box that allow consumer comfortably enjoy different facets of Diamond beauty and Compare diamonds side by side.
+</div>
+<div class="card__media">
+<img src="/images/spread-illustration-00.jpg" alt="">
+</div>
+</div>
+
+<a href="/blog/apparent-size" class="project__link button--text --right" style="color: #4C60E6; --color-var: #4C60E6">Read more</a>
