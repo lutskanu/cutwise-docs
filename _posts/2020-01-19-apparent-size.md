@@ -10,10 +10,11 @@ Diamond with the same weight can have different visible size depending on their 
 <iframe
     name="Cutwise Widget"
     width="100%"
-    height="768px"
+    height="730px"
     frameborder="0"
     src="https://widget.cutwise.com/report/v1/37753#proportions"
     allowfullscreen
+    scrolling="no"
 ></iframe>
 
 #### Consider Apparent size for 1 ct Marquise
