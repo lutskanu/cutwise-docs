@@ -1,7 +1,7 @@
 ---
-title: Ray path in Round Diamond. How Stereo defines Round Diamond performance
+title: Ray Path in Round Diamond
 date: 2020-01-15 00:00:00
-description: In Chapter is described how the Tolkowsky Round works. And what will happen if we will decrease or increase diamond Pavilion angle.
+description: How stereo defines round diamond performance
 
 featured_image: ''
 ---
