@@ -6,6 +6,20 @@ description: Find out what is Apparent size and how this parameter can be used f
 featured_image: ''
 ---
 
+Diamond with the same weight can have different visible size depending on their shape. This visual size is described by spread characteristic. Positive spread means that diamond looks larger than Tolkowsky round with same weight, negative means opposite.
+<iframe
+    name="Cutwise Widget"
+    width="100%"
+    height="100%"
+    frameborder="0"
+    src="https://widget.cutwise.com/report/v1/37753#proportions"
+    allowfullscreen
+></iframe>
+
+Consider Apparent size for 1 ct Marquise
+
+
+
 In Chapter is described how the Tolkowsky Round works. And what will happen if we will decrease or increase diamond Pavilion angle.
 
 Let’s consider optical theory for arrow facet under the table. Right eye see white flash reflected from the light source on the right.
