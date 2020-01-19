@@ -71,12 +71,7 @@ accent_color: 'red'
 
 <div class="card post__content">
 <div class="card__media">
-{% include post-components/gallery.html
-	columns = 2
-	full_width = true
-	images = "/images/Stereoscopic-and-spatial-contrast-C-001.png
-	"
-%}
+<img src="/images/Stereoscopic-and-spatial-contrast-C-001.png" alt="">
 </div>
 <div class="card__description">
 In Chapter is described how the Tolkowsky Round works. And what will happen if we will decrease or increase diamond Pavilion angle.
