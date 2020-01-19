@@ -125,4 +125,36 @@ DiBox JD is special observation box that allow consumer comfortably enjoy differ
 </div>
 </div>
 
-<a href="/files/CutwiseLive_Catalogue.pdf" style="color: #4C60E6; --color-var: #4C60E6">Download Catalog</a>
+<a href="/files/CutwiseLive_Catalogue.pdf" class="project__link button--text --right" style="color: #4C60E6; --color-var: #4C60E6">Download Catalog</a>
+
+<h4 id="fn:5"><strong>5.03 Live comparison of two stones in DiBox JD</strong><a href="#fnref:5" class="reversefootnote"> ↩</a></h4>
+
+<div class="card post__content">
+<div class="card__description">
+DiBox JD allow two diamond to be compared side by side in equivalent and consistent lighting conditions.
+Two cushions on the Right have similar 4C, but different Performance, including Brilliance and Fire.
+Side by side comparison can help consumers select diamond according to their own preference.
+</div>
+<div class="card__media">
+<p align="center">
+<iframe
+    name="Cutwise Player"
+    width="480"
+    height="480"
+    frameborder="0"
+    src="https://widget.cutwise.com/video/37626?sp=43"
+    allowfullscreen
+></iframe>
+<iframe
+    name="Cutwise Player"
+    width="480"
+    height="480"
+    frameborder="0"
+    src="https://widget.cutwise.com/video/37627?sp=43"
+    allowfullscreen
+></iframe>
+</p>
+</div>
+</div>
+
+<a href="/blog/dibox-jd" class="project__link button--text --right" style="color: #4C60E6; --color-var: #4C60E6">Read more</a>
