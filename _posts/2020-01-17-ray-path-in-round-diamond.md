@@ -112,20 +112,11 @@ If we change Pa from Tolkowsky then we reduce Binocular rivalry of the Round cut
 #### Diamonds Tilt 10º ± 5º From Face-up Position
 
 Another very important feature – is the **Facet Speed** during the diamond tilting related with Temporal contrast.
+
 When consumer rocks the diamond during the observation – the ray path for facets changes as we can see on the video. Diamond scans the surrounding space and reflects light sources to the observer.
 
-{% include post-components/video.html
-	url = "https://youtu.be/mtxdfLGxKqE"
-	full_width = true
-%}
-
-{% include post-components/video.html
-	url = "https://youtu.be/NtKn8Gplz5Q"
-	full_width = true
-%}
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mtxdfLGxKqE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NtKn8Gplz5Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video preload="auto" autoplay="true" loop="true" muted="muted"><source src="http://files-cdn.cutwise.com/Video/Ray-path-05_1.mp4"></video>
+<video preload="auto" autoplay="true" loop="true" muted="muted"><source src="http://files-cdn.cutwise.com/Video/ASET-compilation.mp4"></video>
 
 In this demonstration we tilt diamond by 10 degrees. Very shallow diamond and nail head reflects the same area in space during this rotation. It means that these stones reflection of observer’s head is very stable. And even during rotation they will remain black creating ”Dead zones” effect (areas in diamond that always remain black). This results very bad performance of these stones.
 
