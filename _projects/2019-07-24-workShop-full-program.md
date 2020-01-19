@@ -23,7 +23,7 @@ accent_color: 'red'
   <li>1.04 Optical illusions. Explanation of Spatial and Temporal Rivalry in Diamond</li>
   <li>1.05 Importance of Stereo Vision for Diamond Perception</li>
   <li><strong><a class="project__link button--text --right" style="color: #4C60E6; --color-var: #4C60E6" id="fnref:1" href="#fn:1">1.06 Ray path in Round Diamond (how Stereo defines Round Diamond performance)</a></strong></li>
-  <li><strong><a id="fnref:2" href="#fn:2">1.07 Sweet Line in Round Diamonds</a></strong></li>
+  <li><strong>><a class="project__link button--text --right" style="color: #4C60E6; --color-var: #4C60E6" id="fnref:2" href="#fn:2">1.07 Sweet Line in Round Diamonds</a></strong></li>
   <li>1.08 Fire</li>
   <li>1.09 Brilliance</li>
   <li>1.10 Custom Grading for Optical Performance & Color</li>
@@ -58,9 +58,9 @@ accent_color: 'red'
   
   <li>5. DiBox JD</li>
   <ul>
-  <li>5.01 Introduction to DiBox JD</li>
+  <li><a class="project__link button--text --right" style="color: #4C60E6; --color-var: #4C60E6" id="fnref:4" href="#fn:4">5.01 Introduction to DiBox JD</li>
   <li>5.02 Diamond real time observation in Jewelry Store</li>
-  <li>5.03 Live comparison of two stones in DiBox JD</li>
+  <li><a class="project__link button--text --right" style="color: #4C60E6; --color-var: #4C60E6" id="fnref:5" href="#fn:5">5.03 Live comparison of two stones in DiBox JD</li>
   <li>5.04 Diamond Selection in DiBox JD. Customer choice confirmation.</li>
   </ul>
   
@@ -71,9 +71,7 @@ accent_color: 'red'
 
 <div class="card post__content">
 <div class="card__media">
-<img src="/images/Stereoscopic-and-spatial-contrast-C-001.png" alt="">
-<img src="/images/Stereoscopic-and-spatial-contrast-C-002.png" alt="">
-<img src="/images/Stereoscopic-and-spatial-contrast-C-003-vs.png" alt="">
+<img src="/images/Stereoscopic-and-spatial-contrast-C-001.png" alt=""><img src="/images/Stereoscopic-and-spatial-contrast-C-002.png" alt=""><img src="/images/Stereoscopic-and-spatial-contrast-C-003-vs.png" alt="">
 </div>
 <div class="card__description">
 Ray path in Round Diamond (how Stereo defines Round Diamond performance).
@@ -127,4 +125,4 @@ DiBox JD is special observation box that allow consumer comfortably enjoy differ
 </div>
 </div>
 
-<a href="/blog/apparent-size" class="project__link button--text --right" style="color: #4C60E6; --color-var: #4C60E6">Read more</a>
+<a href="/files/CutwiseLive_Catalogue.pdf" class="project__link button--text --right" style="color: #4C60E6; --color-var: #4C60E6">Download Catalog</a>
