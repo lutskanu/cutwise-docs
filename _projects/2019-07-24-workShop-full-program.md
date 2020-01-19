@@ -136,23 +136,6 @@ Side by side comparison can help consumers select diamond according to their own
 </div>
 </div>
 
-<p align="center">
-<iframe
-    name="Cutwise Player"
-    width="480"
-    height="480"
-    frameborder="0"
-    src="https://widget.cutwise.com/video/37626?sp=43"
-    allowfullscreen
-></iframe>
-<iframe
-    name="Cutwise Player"
-    width="480"
-    height="480"
-    frameborder="0"
-    src="https://widget.cutwise.com/video/37627?sp=43"
-    allowfullscreen
-></iframe>
-</p>
+|<p align="center"><iframe name="Cutwise Player" width="100%" frameborder="0" src="https://widget.cutwise.com/video/37626?sp=43" allowfullscreen></iframe></p> | <p align="center"><iframe name="Cutwise Player" width="100%" frameborder="0" src="https://widget.cutwise.com/video/37627?sp=43" allowfullscreen></iframe></p> |
 
 <a href="/blog/dibox-jd" class="project__link button--text --right" style="color: #4C60E6; --color-var: #4C60E6">Read more</a>
