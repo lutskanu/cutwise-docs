@@ -1,10 +1,12 @@
 ---
 title: Ray path in Round Diamond. How Stereo defines Round Diamond performance
 date: 2020-01-15 00:00:00
-description: Let’s consider optical theory for arrow facet under the table. Right eye see white flash reflected from the light source on the right.
+description: In Chapter is described how the Tolkowsky Round works. And what will happen if we will decrease or increase diamond Pavilion angle.
 
 featured_image: ''
 ---
+
+In Chapter is described how the Tolkowsky Round works. And what will happen if we will decrease or increase diamond Pavilion angle.
 
 Let’s consider optical theory for arrow facet under the table. Right eye see white flash reflected from the light source on the right.
 
