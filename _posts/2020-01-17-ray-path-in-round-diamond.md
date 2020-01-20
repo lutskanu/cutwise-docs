@@ -47,31 +47,69 @@ Ca 34.5, Pa 40.8
 We will check two shallower stones. One with Pa 39.6 and another very shallow.
 And two deeper stones: one with Pa 41.6, and another very deep “Nail Head” diamond.
 
-<table align="center" width="100%">
-  <tr>
-    <td>Very Shallow</td>
-    <td>Shallow</td>
-    <td>Tolkowsky</td>
-    <td>Deep</td>
-    <td>“Nail Head”</td>
-  </tr>
+<div class="card-list">
 
-   <tr>
-     <td><iframe name="Cutwise Player" width="240" height="240" frameborder="0" src="https://widget.cutwise.com/video/37814?sp=11" allowfullscreen></iframe></td>
-     <td><iframe name="Cutwise Player" width="240" height="240" frameborder="0" src="https://widget.cutwise.com/video/37814?sp=11" allowfullscreen></iframe></td>
-     <td><iframe name="Cutwise Player" width="240" height="240" frameborder="0" src="https://widget.cutwise.com/video/37814?sp=11" allowfullscreen></iframe></td>
-     <td><iframe name="Cutwise Player" width="240" height="240" frameborder="0" src="https://widget.cutwise.com/video/37814?sp=11" allowfullscreen></iframe></td>
-     <td><iframe name="Cutwise Player" width="240" height="240" frameborder="0" src="https://widget.cutwise.com/video/37814?sp=11" allowfullscreen></iframe></td>
-   </tr>
+<div class="card">
+<div class="card__description card__description--centered">
+Very Shallow
+</div>
+<div class="card__media">
+<iframe name="Cutwise Player" width="240" height="240" frameborder="0" src="https://widget.cutwise.com/video/37814?sp=11" allowfullscreen></iframe>
+</div>
+<div class="card__description card__description--centered">
+Ca 25 Pa 39
+</div>
+</div>
 
-   <tr>
-     <td>Ca 25 Pa 39</td>
-     <td>Ca 34.5, Pa 39.6</td>
-     <td>Ca 34.5, Pa 40.8</td>
-     <td>Ca 34.5, Pa 41.8</td>
-     <td>Ca 34.5, Pa 43.6</td>
-   </tr>
-</table>
+<div class="card">
+<div class="card__description card__description--centered">
+Shallow
+</div>
+<div class="card__media">
+<iframe name="Cutwise Player" width="240" height="240" frameborder="0" src="https://widget.cutwise.com/video/37814?sp=11" allowfullscreen></iframe>
+</div>
+<div class="card__description card__description--centered">
+Ca 34.5, Pa 39.6
+</div>
+</div>
+
+<div class="card">
+<div class="card__description card__description--centered">
+Tolkowsky
+</div>
+<div class="card__media">
+<iframe name="Cutwise Player" width="240" height="240" frameborder="0" src="https://widget.cutwise.com/video/37814?sp=11" allowfullscreen></iframe>
+</div>
+<div class="card__description card__description--centered">
+Ca 34.5, Pa 40.8
+</div>
+</div>
+
+<div class="card">
+<div class="card__description card__description--centered">
+Deep
+</div>
+<div class="card__media">
+<iframe name="Cutwise Player" width="240" height="240" frameborder="0" src="https://widget.cutwise.com/video/37814?sp=11" allowfullscreen></iframe>
+</div>
+<div class="card__description card__description--centered">
+Ca 34.5, Pa 41.8
+</div>
+</div>
+
+<div class="card">
+<div class="card__description card__description--centered">
+“Nail Head”
+</div>
+<div class="card__media">
+<iframe name="Cutwise Player" width="240" height="240" frameborder="0" src="https://widget.cutwise.com/video/37814?sp=11" allowfullscreen></iframe>
+</div>
+<div class="card__description card__description--centered">
+Ca 34.5, Pa 43.6
+</div>
+</div>
+
+</div>
 
 Now let’s check shallow diamond. It return the ray from Right eye directly to the observer head. So marked arrow is black.
 
@@ -81,8 +119,7 @@ So both eyes see black and reflects observer head. This is worst case scenario. 
 {% include post-components/gallery.html
 	columns = 2
 	full_width = true
-	images = "/images/page1-pic6.png,/images/page1-pic7.png,
-	"
+	images = "/images/page1-pic6.png,/images/page1-pic7.png"
 %}
 
 Very shallow stone show different ray path. It will reflect light source that on the left side of observer (note that it is different from Tolkowsky).
@@ -94,8 +131,7 @@ So the diamond has high objective brightness. But it lacks contrast, and thus lo
 {% include post-components/gallery.html
 	columns = 2
 	full_width = true
-	images = "/images/page1-pic8.png,/images/page1-pic9.png,
-	"
+	images = "/images/page1-pic8.png,/images/page1-pic9.png"
 %}
 
 Deep diamond will act close to Tolkowsky, but will reflect Light source from much steeper angle
@@ -105,8 +141,7 @@ So deep diamond has selected facet white in both eyes. We already considered thi
 {% include post-components/gallery.html
 	columns = 2
 	full_width = true
-	images = "/images/page1-pic10.png,/images/page1-pic11.png,
-	"
+	images = "/images/page1-pic10.png,/images/page1-pic11.png"
 %}
 
 Nail head stone will give full internal reflection and redirect light to the observer head.
@@ -116,8 +151,7 @@ So deep diamond has selected facet white in both eyes. We already considered thi
 {% include post-components/gallery.html
 	columns = 2
 	full_width = true
-	images = "/images/page1-pic12.png,/images/page1-pic13.png,
-	"
+	images = "/images/page1-pic12.png,/images/page1-pic13.png"
 %}
 
 Let’s summarize what we have found.
@@ -139,6 +173,15 @@ When consumer rocks the diamond during the observation – the ray path for face
 
 <video width="100%" preload="auto" autoplay="true" loop="true" muted="muted"><source src="http://files-cdn.cutwise.com/Video/Ray-path-05_1.mp4"></video>
 <video width="100%" preload="auto" autoplay="true" loop="true" muted="muted"><source src="http://files-cdn.cutwise.com/Video/ASET-compilation.mp4"></video>
+
+<div style="display: flex; justify-content: space-around; align-items: center; padding: 10px">
+<div>Ray Tilt</div>
+<div>0.1º</div>
+<div>1.7º</div>
+<div>4.3º</div>
+<div>12.8º</div>
+<div>0.7º</div>
+</div>
 
 <table width="100%">
   <tr>

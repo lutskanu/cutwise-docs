@@ -77,7 +77,7 @@ In Chapter is described how the Tolkowsky Round works. And what will happen if w
 <img src="/images/Stereoscopic-and-spatial-contrast-C-001.png" alt="">
 </div>
 <div class="card__link">
-<a href="/blog/demo-post" class="project__link button--text --right" style="color: #4C60E6; --color-var: #4C60E6">Read more</a>
+<a href="/blog/ray-path-in-round-diamond" class="project__link button--text --right" style="color: #4C60E6; --color-var: #4C60E6">Read more</a>
 </div>
 </div>
 

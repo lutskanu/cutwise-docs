@@ -216,6 +216,13 @@ textarea {
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Components
 
+.card-list {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	margin-bottom: 24px;
+}
+
 .card {
 	display: flex;
 	flex-direction: column;
@@ -225,6 +232,12 @@ textarea {
 
 .card__description {
 	margin: 20px 0 0 0;
+
+	&--centered {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
 }
 
 .card__media {
