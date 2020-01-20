@@ -31,14 +31,7 @@ Tolkowsky
 </p>
 
 <p align="center">
-<iframe
-    name="Cutwise Player"
-    width="480"
-    height="480"
-    frameborder="0"
-    src="https://widget.cutwise.com/video/37814?sp=11"
-    allowfullscreen
-></iframe>
+<img style="width: 400px; height: 400px;" src="/images/arrows3.png" alt="">
 </p>
 <p align="center">
 Ca 34.5, Pa 40.8
@@ -54,7 +47,7 @@ And two deeper stones: one with Pa 41.6, and another very deep “Nail Head” d
 Very Shallow
 </div>
 <div class="card__media">
-<iframe name="Cutwise Player" width="240" height="240" frameborder="0" src="https://widget.cutwise.com/video/37814?sp=11" allowfullscreen></iframe>
+<img style="width: 200px; height: 200px;" src="/images/arrows1.png" alt="">
 </div>
 <div class="card__description card__description--centered">
 Ca 25 Pa 39
@@ -66,7 +59,7 @@ Ca 25 Pa 39
 Shallow
 </div>
 <div class="card__media">
-<iframe name="Cutwise Player" width="240" height="240" frameborder="0" src="https://widget.cutwise.com/video/37814?sp=11" allowfullscreen></iframe>
+<img style="width: 200px; height: 200px;" src="/images/arrows2.png" alt="">
 </div>
 <div class="card__description card__description--centered">
 Ca 34.5, Pa 39.6
@@ -78,7 +71,7 @@ Ca 34.5, Pa 39.6
 Tolkowsky
 </div>
 <div class="card__media">
-<iframe name="Cutwise Player" width="240" height="240" frameborder="0" src="https://widget.cutwise.com/video/37814?sp=11" allowfullscreen></iframe>
+<img style="width: 200px; height: 200px;" src="/images/arrows3.png" alt="">
 </div>
 <div class="card__description card__description--centered">
 Ca 34.5, Pa 40.8
@@ -90,7 +83,7 @@ Ca 34.5, Pa 40.8
 Deep
 </div>
 <div class="card__media">
-<iframe name="Cutwise Player" width="240" height="240" frameborder="0" src="https://widget.cutwise.com/video/37814?sp=11" allowfullscreen></iframe>
+<img style="width: 200px; height: 200px;" src="/images/arrows4.png" alt="">
 </div>
 <div class="card__description card__description--centered">
 Ca 34.5, Pa 41.8
@@ -102,7 +95,7 @@ Ca 34.5, Pa 41.8
 “Nail Head”
 </div>
 <div class="card__media">
-<iframe name="Cutwise Player" width="240" height="240" frameborder="0" src="https://widget.cutwise.com/video/37814?sp=11" allowfullscreen></iframe>
+<img style="width: 200px; height: 200px;" src="/images/arrows5.png" alt="">
 </div>
 <div class="card__description card__description--centered">
 Ca 34.5, Pa 43.6
