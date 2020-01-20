@@ -31,14 +31,7 @@ Tolkowsky
 </p>
 
 <p align="center">
-<iframe
-    name="Cutwise Player"
-    width="480"
-    height="480"
-    frameborder="0"
-    src="https://widget.cutwise.com/video/37814?sp=11"
-    allowfullscreen
-></iframe>
+<img style="width: 400px; height: 400px;" src="/images/arrows3.png" alt="">
 </p>
 <p align="center">
 Ca 34.5, Pa 40.8
