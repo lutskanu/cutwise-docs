@@ -186,7 +186,6 @@ a {
   @include transition(all 120ms ease-in-out);
 
   &:hover {
-    color: $accent-color;
   }
 }
 

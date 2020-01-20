@@ -66,6 +66,7 @@ accent_color: 'red'
   
 </ul>
 
+---
 
 <h4 id="fn:1">1.06 Ray path in Round Diamond (how Stereo defines Round Diamond performance)<a href="#fnref:1" class="reversefootnote"> ↩</a></h4>
 
@@ -77,9 +78,11 @@ In Chapter is described how the Tolkowsky Round works. And what will happen if w
 <img src="/images/Stereoscopic-and-spatial-contrast-C-001.png" alt="">
 </div>
 <div class="card__link">
-<a href="/blog/ray-path-in-round-diamond" class="project__link button--text --right" style="color: #4C60E6; --color-var: #4C60E6">Read more</a>
+<a href="/blog/ray-path-in-round-diamond" class="project__link button--text --right" style="color: #4A90E2; --color-var: #4A90E2">Read more</a>
 </div>
 </div>
+
+---
 
 <h4 id="fn:2"><strong>1.07 Sweet Line in Round Diamonds</strong><a href="#fnref:2" class="reversefootnote"> ↩</a></h4>
 
@@ -87,14 +90,15 @@ In Chapter is described how the Tolkowsky Round works. And what will happen if w
 <div class="card__description">
 In Chapter is described how the Tolkowsky Round works. And what will happen if we will decrease or increase diamond Pavilion angle.
 </div>
-<div class="card__media">
+<div class="card__media card__media--mediumed">
 <img src="/images/Office-04-SL.jpg" alt="">
 </div>
 <div class="card__link">
-<a href="/blog/sweet-line-in-round-diamonds" class="project__link button--text --right" style="color: #4C60E6; --color-var: #4C60E6">Read more</a>
+<a href="/blog/sweet-line-in-round-diamonds" class="project__link button--text --right" style="color: #4A90E2; --color-var: #4A90E2">Read more</a>
 </div>
 </div>
 
+---
 
 <h4 id="fn:3"><strong>1.11 Apparent Size</strong><a href="#fnref:3" class="reversefootnote"> ↩</a></h4>
 
@@ -102,14 +106,15 @@ In Chapter is described how the Tolkowsky Round works. And what will happen if w
 <div class="card__description">
 Find out what is Apparent size and how this parameter can be used for diamond selection
 </div>
-<div class="card__media card__media--mediumed">
+<div class="card__media card__media--smalled">
 <img src="/images/spread-illustration-00.jpg" alt="">
 </div>
 <div class="card__link">
-<a href="/blog/apparent-size" class="project__link button--text --right" style="color: #4C60E6; --color-var: #4C60E6">Read more</a>
+<a href="/blog/apparent-size" class="project__link button--text --right" style="color: #4A90E2; --color-var: #4A90E2">Read more</a>
 </div>
 </div>
 
+---
 
 <h4 id="fn:4"><strong>5.01 Introduction to DiBox JD</strong><a href="#fnref:4" class="reversefootnote"> ↩</a></h4>
 
@@ -121,10 +126,11 @@ DiBox JD is special observation box that allow consumer comfortably enjoy differ
 <img src="/images/Cutwise-Live-gold-03012019.png" alt="">
 </div>
 <div class="card__link">
-<a href="http://files-cdn.cutwise.com/presentation/files/CutwiseLive_Catalogue.pdf" class="project__link button--text" style="color: #4C60E6; --color-var: #4C60E6">Download Catalog (pdf, 2MB) ⬇️</a>
+<a href="http://files-cdn.cutwise.com/presentation/files/CutwiseLive_Catalogue.pdf" class="project__link button--text" style="color: #4A90E2; --color-var: #4A90E2">Download Catalog (pdf, 2MB)️</a>
 </div>
 </div>
 
+---
 
 <h4 id="fn:5"><strong>5.03 Live comparison of two stones in DiBox JD</strong><a href="#fnref:5" class="reversefootnote"> ↩</a></h4>
 
@@ -139,6 +145,6 @@ Side by side comparison can help consumers select diamond according to their own
 <div class="widget"><iframe name="Cutwise Player" width="100%" height="100%" frameborder="0" src="https://widget.cutwise.com/video/37627?sp=43" allowfullscreen></iframe></div>
 </div>
 <div class="card__link">
-<a href="/blog/dibox-jd" class="project__link button--text --right" style="color: #4C60E6; --color-var: #4C60E6">Read more</a>
+<a href="/blog/dibox-jd" class="project__link button--text --right" style="color: #4A90E2; --color-var: #4A90E2">Read more</a>
 </div>
 </div>
