@@ -58,7 +58,7 @@
 
 .hero__background {
 	display: block;
-	position: absolute;
+	position: fixed;
 	top: 0;
 	right: 0;
 	transform: translateX(-50%) scale(2);
