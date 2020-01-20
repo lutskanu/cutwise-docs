@@ -22,8 +22,8 @@ accent_color: 'red'
   <li>1.03 Strengths and weaknesses of common diamond evaluation tools & systems (ASET, H&A, HCA, Facetware)</li>
   <li>1.04 Optical illusions. Explanation of Spatial and Temporal Rivalry in Diamond</li>
   <li>1.05 Importance of Stereo Vision for Diamond Perception</li>
-  <li><strong><a class="project__link button--text --right" style="color: #4C60E6; --color-var: #4C60E6" id="fnref:1" href="#fn:1">1.06 Ray path in Round Diamond (how Stereo defines Round Diamond performance)</a></strong></li>
-  <li><strong><a class="project__link button--text --right" style="color: #4C60E6; --color-var: #4C60E6" id="fnref:2" href="#fn:2">1.07 Sweet Line in Round Diamonds</a></strong></li>
+  <li><strong><a id="fnref:1" href="#fn:1">1.06 Ray path in Round Diamond (how Stereo defines Round Diamond performance)</a></strong></li>
+  <li><strong><a id="fnref:2" href="#fn:2">1.07 Sweet Line in Round Diamonds</a></strong></li>
   <li>1.08 Fire</li>
   <li>1.09 Brilliance</li>
   <li>1.10 Custom Grading for Optical Performance & Color</li>
@@ -78,7 +78,7 @@ In Chapter is described how the Tolkowsky Round works. And what will happen if w
 </div>
 </div>
 
-<a href="/blog/ray-path-in-round-diamond" class="project__link button--text --right" style="color: #4C60E6; --color-var: #4C60E6">Read more</a>
+<a href="/blog/ray-path-in-round-diamond">Read more</a>
 
 
 

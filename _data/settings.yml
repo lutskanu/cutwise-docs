@@ -58,14 +58,14 @@ social_settings:
   linkedin_url: ''
 
 color_settings:
-  background_color: '#ffffff'
+  background_color: '#131313'
   background_alt_color: '#f4f5f6'
-  text_dark_color: '#202224'
+  text_dark_color: '#efefef'
   text_medium_color: '#6C7A89'
-  text_light_color: '#AEB3BB'
-  accent_color: '#4C60E6'
-  border_color: '#ECEDEF'
-  error_color: '#D64541'
+  text_light_color: '#131313'
+  accent_color: '#DDAD7F'
+  border_color: '#DDAD7F'
+  error_color: '#FF4848'
 
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans&display=swap" rel="stylesheet">'

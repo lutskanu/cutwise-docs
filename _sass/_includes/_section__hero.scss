@@ -60,8 +60,8 @@
 	display: block;
 	position: absolute;
 	top: 0;
-	left: 50%;
-	transform: translateX(-50%);
+	right: 0;
+	transform: translateX(-50%) scale(2);
 	z-index: -1;
 	max-width: 190%;
 	display: none;
