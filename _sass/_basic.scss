@@ -218,6 +218,7 @@ textarea {
 
 .card-list {
 	display: flex;
+	justify-content: center;
 	flex-direction: row;
 	flex-wrap: wrap;
 	margin-bottom: 24px;
@@ -277,6 +278,13 @@ textarea {
 		img {
 			max-width: 600px;
 		}
+
+		@include mq(phonel) {
+
+			img, video {
+				max-width: 100%;
+			}
+		}
 	}
 
 	&--smalled {
@@ -295,3 +303,18 @@ textarea {
 	color: $link-accented-color;
 }
 
+.widget-proportions {
+	display: block;
+
+	@include mq(phonel) {
+		display: none;
+	}
+}
+
+.widget-performance {
+	display: none;
+
+	@include mq(phonel) {
+		display: block;
+	}
+}

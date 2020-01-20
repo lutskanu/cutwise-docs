@@ -16,8 +16,13 @@
   width: 100%;
   max-width: 1260px;
 
+  @include mq(desktop) {
+    max-width: 1200px;
+    padding: 0 100px;
+  }
+
   @include mq(screen-xs) {
-    padding: 0 10px;
+    padding: 0 20px;
   }
 }
 

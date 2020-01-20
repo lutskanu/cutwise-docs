@@ -7,6 +7,8 @@ featured_image: ''
 ---
 
 Diamond with the same weight can have different visible size depending on their shape. This visual size is described by spread characteristic. Positive spread means that diamond looks larger than Tolkowsky round with same weight, negative means opposite.
+
+<div class="widget-proportions">
 <iframe
     name="Cutwise Widget"
     width="100%"
@@ -16,6 +18,20 @@ Diamond with the same weight can have different visible size depending on their 
     allowfullscreen
     scrolling="no"
 ></iframe>
+</div>
+
+<div class="widget-performance">
+<iframe
+    name="Cutwise Widget"
+    width="100%"
+    height="480px"
+    frameborder="0"
+    src="https://widget.cutwise.com/performance/v1/37753#spread"
+    allowfullscreen
+    scrolling="no"
+></iframe>
+</div>
+
 
 #### Consider Apparent size for 1 ct Marquise
 
