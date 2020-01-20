@@ -24,7 +24,7 @@ Violet square highlights Tolkowsky proportions. The borders of the GIA EX area a
 <div class="card">
 <div class="card__media card__media--paired">
 <img src="/images/page-sweetline-aset1.jpg" alt="">
-<video preload="auto" autoplay="true" loop="true" muted="muted"><source src="http://files-cdn.cutwise.com/Video/Office-01.mp4"></video>
+<video autoplay loop muted playsinline src="http://files-cdn.cutwise.com/Video/Office-01.mp4"></video>
 </div>
 </div>
 
