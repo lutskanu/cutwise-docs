@@ -219,17 +219,50 @@ textarea {
 .card {
 	line-height: 1.3;
 	font-size: 18px;
-	display: flex;
 }
 
 .card__description {
+	margin: 20px 0 0 0;
 }
 
 .card__media {
-	img {
+	margin: 20px 0 0 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	.widget {
+		width: 100%;
+		height: 480px;
+
+		@include mq(screen-xs) {
+			height: 320px;
+		}
+
+		@include mq(phonel) {
+			height: 240px;
+		}
 	}
+
+	&--mediumed {
+		img {
+			max-width: 600px;
+		}
+	}
+
+	&--smalled {
+		img {
+			max-width: 300px;
+		}
+	}
+}
+
+.card__link {
+	margin: 20px 0 0 0;
+	align-self: flex-end;
 }
 
 .link--accented {
 	color: $link-accented-color;
 }
+

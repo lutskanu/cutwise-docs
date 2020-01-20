@@ -155,6 +155,7 @@
 }
 
 .menu--open .header__menu {
+  background: $background-color;
   opacity: 1;
   visibility: visible;
   top: 0px;

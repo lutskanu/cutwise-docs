@@ -7,15 +7,25 @@
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Responsive
 // Usage: @include mq(tabletp) {}
 
+$break-screen-xxs: 320px;
 $break-phonel: 480px;
+$break-screen-xs: 576px;
 $break-tabletp: 768px;
 $break-tabletl: 1024px;
 $break-laptop: 1220px;
 $break-desktop: 1420px;
 
 @mixin mq($media) {
-  @if $media == phonel {
-    @media only screen and (min-width: $break-phonel) {
+  @if $media == screen-xs {
+    @media only screen and (max-width: $break-screen-xs) {
+      @content;
+    }
+  } @else if $media == screen-xxs {
+    @media only screen and (max-width: $break-screen-xxs) {
+      @content;
+    }
+  } @else if $media == phonel {
+    @media only screen and (max-width: $break-phonel) {
       @content;
     }
   } @else if $media == tabletp {

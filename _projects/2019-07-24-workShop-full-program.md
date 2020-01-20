@@ -69,79 +69,76 @@ accent_color: 'red'
 
 <h4 id="fn:1">1.06 Ray path in Round Diamond (how Stereo defines Round Diamond performance)<a href="#fnref:1" class="reversefootnote"> ↩</a></h4>
 
-<div class="card post__content">
-<div class="card__media">
-<img src="/images/Stereoscopic-and-spatial-contrast-C-001.png" alt="">
-</div>
+<div class="card">
 <div class="card__description">
 In Chapter is described how the Tolkowsky Round works. And what will happen if we will decrease or increase diamond Pavilion angle.
 </div>
+<div class="card__media">
+<img src="/images/Stereoscopic-and-spatial-contrast-C-001.png" alt="">
 </div>
-
-<a href="/blog/ray-path-in-round-diamond">Read more</a>
-
-
-
+<div class="card__link">
+<a href="/blog/demo-post" class="project__link button--text --right" style="color: #4C60E6; --color-var: #4C60E6">Read more</a>
+</div>
+</div>
 
 <h4 id="fn:2"><strong>1.07 Sweet Line in Round Diamonds</strong><a href="#fnref:2" class="reversefootnote"> ↩</a></h4>
 
-<div class="card post__content">
+<div class="card">
 <div class="card__description">
 In Chapter is described how the Tolkowsky Round works. And what will happen if we will decrease or increase diamond Pavilion angle.
 </div>
 <div class="card__media">
 <img src="/images/Office-04-SL.jpg" alt="">
 </div>
-</div>
-
+<div class="card__link">
 <a href="/blog/demo-post" class="project__link button--text --right" style="color: #4C60E6; --color-var: #4C60E6">Read more</a>
+</div>
+</div>
 
 
 <h4 id="fn:3"><strong>1.11 Apparent Size</strong><a href="#fnref:3" class="reversefootnote"> ↩</a></h4>
 
-<div class="card post__content">
+<div class="card">
 <div class="card__description">
 Find out what is Apparent size and how this parameter can be used for diamond selection
 </div>
-<div class="card__media">
+<div class="card__media card__media--mediumed">
 <img src="/images/spread-illustration-00.jpg" alt="">
 </div>
-</div>
-
+<div class="card__link">
 <a href="/blog/apparent-size" class="project__link button--text --right" style="color: #4C60E6; --color-var: #4C60E6">Read more</a>
+</div>
+</div>
 
 
 <h4 id="fn:4"><strong>5.01 Introduction to DiBox JD</strong><a href="#fnref:4" class="reversefootnote"> ↩</a></h4>
 
-<div class="card post__content">
+<div class="card">
 <div class="card__description">
 DiBox JD is special observation box that allow consumer comfortably enjoy different facets of Diamond beauty and Compare diamonds side by side.
 </div>
-<div class="card__media">
+<div class="card__media card__media--smalled">
 <img src="/images/Cutwise-Live-gold-03012019.png" alt="">
+</div>
+<div class="card__link">
+<a href="http://files-cdn.cutwise.com/presentation/files/CutwiseLive_Catalogue.pdf" class="project__link button--text" style="color: #4C60E6; --color-var: #4C60E6">Download Catalog (pdf, 2MB) ⬇️</a>
 </div>
 </div>
 
-<a href="http://files-cdn.cutwise.com/presentation/files/CutwiseLive_Catalogue.pdf" class="project__link button--text --right" style="color: #4C60E6; --color-var: #4C60E6">Download Catalog</a>
 
 <h4 id="fn:5"><strong>5.03 Live comparison of two stones in DiBox JD</strong><a href="#fnref:5" class="reversefootnote"> ↩</a></h4>
 
-<div class="card post__content">
+<div class="card">
 <div class="card__description">
 DiBox JD allow two diamond to be compared side by side in equivalent and consistent lighting conditions.
 Two cushions on the Right have similar 4C, but different Performance, including Brilliance and Fire.
 Side by side comparison can help consumers select diamond according to their own preference.
 </div>
 <div class="card__media">
+<div class="widget"><iframe name="Cutwise Player" width="100%" height="100%" frameborder="0" src="https://widget.cutwise.com/video/37626?sp=43" allowfullscreen></iframe></div>
+<div class="widget"><iframe name="Cutwise Player" width="100%" height="100%" frameborder="0" src="https://widget.cutwise.com/video/37627?sp=43" allowfullscreen></iframe></div>
 </div>
-</div>
-
-<table width="100%" height="480px">
-  <tr>
-    <td><iframe name="Cutwise Player" width="100%" height="100%" frameborder="0" src="https://widget.cutwise.com/video/37626?sp=43" allowfullscreen></iframe></td>
-    <td><iframe name="Cutwise Player" width="100%" height="100%" frameborder="0" src="https://widget.cutwise.com/video/37627?sp=43" allowfullscreen></iframe></td>
-  </tr>
-</table>
-
-
+<div class="card__link">
 <a href="/blog/dibox-jd" class="project__link button--text --right" style="color: #4C60E6; --color-var: #4C60E6">Read more</a>
+</div>
+</div>

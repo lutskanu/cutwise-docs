@@ -10,11 +10,15 @@
 }
 
 .wrap {
-	position: relative;
-	margin: 0 auto;
+  position: relative;
+  margin: 0 auto;
   padding: 0 30px;
   width: 100%;
   max-width: 1200px;
+
+  @include mq(screen-xs) {
+    padding: 0 10px;
+  }
 }
 
 .grid {
