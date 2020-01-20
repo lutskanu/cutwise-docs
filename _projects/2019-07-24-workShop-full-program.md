@@ -91,7 +91,7 @@ In Chapter is described how the Tolkowsky Round works. And what will happen if w
 <img src="/images/Office-04-SL.jpg" alt="">
 </div>
 <div class="card__link">
-<a href="/blog/demo-post" class="project__link button--text --right" style="color: #4C60E6; --color-var: #4C60E6">Read more</a>
+<a href="/blog/sweet-line-in-round-diamonds" class="project__link button--text --right" style="color: #4C60E6; --color-var: #4C60E6">Read more</a>
 </div>
 </div>
 

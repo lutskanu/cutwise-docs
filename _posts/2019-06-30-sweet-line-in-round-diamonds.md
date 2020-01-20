@@ -21,7 +21,12 @@ Violet square highlights Tolkowsky proportions. The borders of the GIA EX area a
 * — Star 50%
 * — LGF length 80%
 
-| ![](/images/page-sweetline-aset1.jpg) | <video width="54.5%" preload="auto" autoplay="true" loop="true" muted="muted"><source src="http://files-cdn.cutwise.com/Video/Office-01.mp4"></video> |
+<div class="card">
+<div class="card__media card__media--paired">
+<img src="/images/page-sweetline-aset1.jpg" alt="">
+<video preload="auto" autoplay="true" loop="true" muted="muted"><source src="http://files-cdn.cutwise.com/Video/Office-01.mp4"></video>
+</div>
+</div>
 
 #### Pa variation with Fixed Ca
 
@@ -31,7 +36,12 @@ For example, we modify Pavilion angle from 40.8 for Tolkowsky to 41.4 degrees wi
 
 It can be seen that the diamond with Pa 41.4 is very different from Tolkowsky both in the ASET image and Office (note the partial leakage under the table).
 
-| ![](/images/page-sweetline-aset2.jpg) | <video width="60.7%" preload="auto" autoplay="true" loop="true" muted="muted"><source src="http://files-cdn.cutwise.com/Video/Office-02.mp4"></video> |
+<div class="card">
+<div class="card__media card__media--paired">
+<img src="/images/page-sweetline-aset2.jpg" alt="">
+<video preload="auto" autoplay="true" loop="true" muted="muted"><source src="http://files-cdn.cutwise.com/Video/Office-02.mp4"></video>
+</div>
+</div>
 
 #### Pa variation compensation using Ca
 
@@ -41,7 +51,12 @@ In this case, we can reduce Ca from 34.5 to 31.5 to compensate deep Pavilion.
 
 The resulting proportions of Ca 31.5 Pa 41.4 will be optically close to Tolkowsky, but will have different Ca-Pa parameters.
 
-| ![](/images/page-sweetline-aset3.jpg) | <video width="60.7%" preload="auto" autoplay="true" loop="true" muted="muted"><source src="http://files-cdn.cutwise.com/Video/Office-03.mp4"></video> |
+<div class="card">
+<div class="card__media card__media--paired">
+<img src="/images/page-sweetline-aset3.jpg" alt="">
+<video preload="auto" autoplay="true" loop="true" muted="muted"><source src="http://files-cdn.cutwise.com/Video/Office-03.mp4"></video>
+</div>
+</div>
 
 #### Sweet Line
 
@@ -49,13 +64,23 @@ The combination of Ca-Pa proportions, which give a round diamond optics similar 
 
 Diamond proportions positioned on Sweet line can be produced to increase yield and at the same time maintain optical performance.
 
-| ![](/images/page-sweetline-aset4.jpg) | <video width="60.7%" preload="auto" autoplay="true" loop="true" muted="muted"><source src="http://files-cdn.cutwise.com/Video/Office-04-SL.mp4"></video> |
+<div class="card">
+<div class="card__media card__media--paired">
+<img src="/images/page-sweetline-aset4.jpg" alt="">
+<video preload="auto" autoplay="true" loop="true" muted="muted"><source src="http://files-cdn.cutwise.com/Video/Office-04-SL.mp4"></video>
+</div>
+</div>
 
 #### Anti Sweet Line
 
 The reverse line to Sweet line is called Anti Sweet (Bitter) line. Movement along it leads to a significant change in the optics of the diamond.
 
-| ![](/images/page-sweetline-aset5.jpg) | <video width="60.7%" preload="auto" autoplay="true" loop="true" muted="muted"><source src="http://files-cdn.cutwise.com/Video/Office-05-ASL.mp4"></video> |
+<div class="card">
+<div class="card__media card__media--paired">
+<img src="/images/page-sweetline-aset5.jpg" alt="">
+<video preload="auto" autoplay="true" loop="true" muted="muted"><source src="http://files-cdn.cutwise.com/Video/Office-05-ASL.mp4"></video>
+</div>
+</div>
 
 #### Vertical variation
 
@@ -69,4 +94,9 @@ Generally Ca-Pa chart can be divided into 3 main areas:
 * — area of ​​Dead Zones associated with Head Obscuration (area above Sweet Line)
 * — partial Table Leakage area (area below Sweet Line)
 
-| ![](/images/page-sweetline-aset6.jpg) | <video width="92.7%" preload="auto" autoplay="true" loop="true" muted="muted"><source src="http://files-cdn.cutwise.com/Video/Vertical_Office_Merge-40.2-40.8-41.4Pa.mov"></video> |
+<div class="card">
+<div class="card__media card__media--paired">
+<img src="/images/page-sweetline-aset6.jpg" alt="">
+<video preload="auto" autoplay="true" loop="true" muted="muted"><source src="http://files-cdn.cutwise.com/Video/Vertical_Office_Merge-40.2-40.8-41.4Pa.mov"></video>
+</div>
+</div>
