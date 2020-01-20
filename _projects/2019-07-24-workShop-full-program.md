@@ -22,12 +22,12 @@ accent_color: 'red'
   <li>1.03 Strengths and weaknesses of common diamond evaluation tools & systems (ASET, H&A, HCA, Facetware)</li>
   <li>1.04 Optical illusions. Explanation of Spatial and Temporal Rivalry in Diamond</li>
   <li>1.05 Importance of Stereo Vision for Diamond Perception</li>
-  <li><strong><a id="fnref:1" href="#fn:1">1.06 Ray path in Round Diamond (how Stereo defines Round Diamond performance)</a></strong></li>
-  <li><strong><a id="fnref:2" href="#fn:2">1.07 Sweet Line in Round Diamonds</a></strong></li>
+  <li><a class="link--accented" id="fnref:1" href="#fn:1">1.06 Ray path in Round Diamond (how Stereo defines Round Diamond performance)</a></li>
+  <li><a class="link--accented" id="fnref:2" href="#fn:2">1.07 Sweet Line in Round Diamonds</a></li>
   <li>1.08 Fire</li>
   <li>1.09 Brilliance</li>
   <li>1.10 Custom Grading for Optical Performance & Color</li>
-  <li><strong><a id="fnref:3" href="#fn:3">1.11 Apparent Size</a></strong></li>
+  <li><a class="link--accented" id="fnref:3" href="#fn:3">1.11 Apparent Size</a></li>
   <li>1.12 Table Color</li>
   <li>1.13 Influence of lighting environment properties on Diamond Beauty</li>
   <li>1.14 Diamond size impact. Solitaire and melee setting.</li>
@@ -58,9 +58,9 @@ accent_color: 'red'
   
   <li>5. DiBox JD</li>
   <ul>
-  <li><strong><a id="fnref:4" href="#fn:4">5.01 Introduction to DiBox JD</a></strong></li>
+  <li><a class="link--accented" id="fnref:4" href="#fn:4">5.01 Introduction to DiBox JD</a></li>
   <li>5.02 Diamond real time observation in Jewelry Store</li>
-  <li><strong><a id="fnref:5" href="#fn:5">5.03 Live comparison of two stones in DiBox JD</a></strong></li>
+  <li><a class="link--accented" id="fnref:5" href="#fn:5">5.03 Live comparison of two stones in DiBox JD</a></li>
   <li>5.04 Diamond Selection in DiBox JD. Customer choice confirmation.</li>
   </ul>
   
@@ -122,7 +122,7 @@ DiBox JD is special observation box that allow consumer comfortably enjoy differ
 </div>
 </div>
 
-<a href="/files/CutwiseLive_Catalogue.pdf" class="project__link button--text --right" style="color: #4C60E6; --color-var: #4C60E6">Download Catalog</a>
+<a href="http://files-cdn.cutwise.com/presentation/files/CutwiseLive_Catalogue.pdf" class="project__link button--text --right" style="color: #4C60E6; --color-var: #4C60E6">Download Catalog</a>
 
 <h4 id="fn:5"><strong>5.03 Live comparison of two stones in DiBox JD</strong><a href="#fnref:5" class="reversefootnote"> ↩</a></h4>
 

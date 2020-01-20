@@ -22,6 +22,8 @@ $text-dark-color: {{ site.data.settings.color_settings.text_dark_color }};
 $text-medium-color: {{ site.data.settings.color_settings.text_medium_color }};
 $text-light-color: {{ site.data.settings.color_settings.text_light_color }};
 
+$link-accented-color: {{ site.data.settings.color_settings.link_accented_color }};
+
 $accent-color: {{ site.data.settings.color_settings.accent_color }};
 
 $error-color: {{ site.data.settings.color_settings.error_color }};
