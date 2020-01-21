@@ -63,7 +63,9 @@ date: 2020-01-17 00:00:00
 
 ---
 
-<h4 id="fn:1">1.06 Ray path in Round Diamond (how Stereo defines Round Diamond performance)<a href="#fnref:1" class="reversefootnote"> ↩</a></h4>
+<h4 id="fn:1">1.06 Ray path in Round Diamond (how Stereo defines Round Diamond performance)<a href="#fnref:1" class="reversefootnote">
+<img src="/images/icons/arrow-back-with-tail.svg" alt="">
+</a></h4>
 
 <div class="card">
 <div class="card__description">
@@ -79,7 +81,9 @@ In Chapter is described how the Tolkowsky Round works. And what will happen if w
 
 ---
 
-<h4 id="fn:2"><strong>1.07 Sweet Line in Round Diamonds</strong><a href="#fnref:2" class="reversefootnote"> ↩</a></h4>
+<h4 id="fn:2"><strong>1.07 Sweet Line in Round Diamonds</strong><a href="#fnref:2" class="reversefootnote">
+<img src="/images/icons/arrow-back-with-tail.svg" alt="">
+</a></h4>
 
 <div class="card">
 <div class="card__description">
@@ -95,7 +99,9 @@ In Chapter is described how the Tolkowsky Round works. And what will happen if w
 
 ---
 
-<h4 id="fn:3"><strong>1.11 Apparent Size</strong><a href="#fnref:3" class="reversefootnote"> ↩</a></h4>
+<h4 id="fn:3"><strong>1.11 Apparent Size</strong><a href="#fnref:3" class="reversefootnote">
+<img src="/images/icons/arrow-back-with-tail.svg" alt="">
+</a></h4>
 
 <div class="card">
 <div class="card__description">
@@ -111,7 +117,9 @@ Find out what is Apparent size and how this parameter can be used for diamond se
 
 ---
 
-<h4 id="fn:4"><strong>5.01 Introduction to DiBox JD</strong><a href="#fnref:4" class="reversefootnote"> ↩</a></h4>
+<h4 id="fn:4"><strong>5.01 Introduction to DiBox JD</strong><a href="#fnref:4" class="reversefootnote">
+<img src="/images/icons/arrow-back-with-tail.svg" alt="">
+</a></h4>
 
 <div class="card">
 <div class="card__description">
@@ -127,7 +135,9 @@ DiBox JD is special observation box that allow consumer comfortably enjoy differ
 
 ---
 
-<h4 id="fn:5"><strong>5.03 Live comparison of two stones in DiBox JD</strong><a href="#fnref:5" class="reversefootnote"> ↩</a></h4>
+<h4 id="fn:5"><strong>5.03 Live comparison of two stones in DiBox JD</strong><a href="#fnref:5" class="reversefootnote">
+<img src="/images/icons/arrow-back-with-tail.svg" alt="">
+</a></h4>
 
 <div class="card">
 <div class="card__description">
