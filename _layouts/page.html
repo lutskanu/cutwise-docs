@@ -3,25 +3,25 @@ layout: default
 ---
 <div class="page-post">
 
-	<header class="post__header header--single">
-		
-		<div class="wrap">
-			<h1 class="post__title">{{ page.title }}</h1>
-			<h2 class="post__subtitle subtitle--light">{{ page.subtitle }}</h2>
-		</div>
+    <header class="post__header header--single">
 
-	</header>
+        <div class="wrap">
+            <h1 class="post__title">{{ page.title }}</h1>
+            <h2 class="post__subtitle subtitle--light">{{ page.subtitle }}</h2>
+        </div>
 
-	<section class="post-full">
+    </header>
 
-		<div class="wrap">
+    <section class="post-full">
 
-			<article class="post__content {% if page.highlight_first %}highlight-first{% endif %}">
-				{{ page.content }}
-			</article>
+        <div class="wrap">
 
-		</div>
+            <article class="post__content {% if page.highlight_first %}highlight-first{% endif %}">
+                {{ page.content }}
+            </article>
 
-	</section>
+        </div>
+
+    </section>
 
 </div>

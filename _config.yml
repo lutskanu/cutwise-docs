@@ -1,7 +1,7 @@
-site: Made Jekyll Theme
+site: Cutwise Docs
 
-url: 
-baseurl: 
+url:
+baseurl:
 
 collections:
   pages:
@@ -50,7 +50,7 @@ kramdown:
     block:
       line_numbers: true
       start_line: 1
-  
+
 sass:
   style: compressed
 

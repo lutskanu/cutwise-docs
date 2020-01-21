@@ -32,7 +32,7 @@ Tolkowsky
 
 <p align="center">
 <div class="block--centered">
-<img src="/images/arrows3.png" alt="">
+<img style="width: 320px; height: 320px;" src="/images/arrows3.png" alt="">
 </div>
 </p>
 <p align="center">

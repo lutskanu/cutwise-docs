@@ -2,7 +2,7 @@
 layout: default
 overtitle: May 15-17, 2020
 title: Optical Performance Workshop
-description: 6th Mediterranean Gem and Jewellery Conference in Thessaloniki, Greece.
+description: Optical Performance Workshop
 featured_image: /images/social.jpg
 ---
 
@@ -17,9 +17,6 @@ featured_image: /images/social.jpg
         <div class="wrap">
             <div class="title">
                 <p class="subtitle">{{ page.overtitle }}</p>
-                <!--				<p class="intro subtitle&#45;&#45;light">-->
-                <!--					{{ page.description }}-->
-                <!--				</p>-->
                 <h1>{{ page.title }}</h1>
             </div>
 
@@ -43,13 +40,13 @@ featured_image: /images/social.jpg
 
             <h3 class="project__preview project__title">{{ project.title }}</h3>
 
-                <section class="project__content page-project post-full">
+            <section class="project__content page-project post-full">
 
-                    <article class="post__content {% if project.highlight_first %}highlight-first{% endif %}" style="margin-left: -16px;">
-                        {{ project.content }}
-                    </article>
+                <article class="post__content {% if project.highlight_first %}highlight-first{% endif %}">
+                    {{ project.content }}
+                </article>
 
-                </section>
+            </section>
 
             {% endfor %}
         </div>
