@@ -169,9 +169,9 @@ When consumer rocks the diamond during the observation – the ray path for face
 <video width="100%" autoplay loop muted playsinline src="http://files-cdn.cutwise.com/Video/Ray-path-05_1.mp4"></video>
 <video width="100%" autoplay loop muted playsinline src="http://files-cdn.cutwise.com/Video/ASET-compilation.mp4"></video>
 
-<div style="padding: 24px 0 0 0; display: flex; justify-content: center; align-items: center">Ray Tilt</div>
+<div class="block--centered custom-ray-tilt__title">Ray Tilt</div>
 
-<div style="display: flex; justify-content: space-around; align-items: center; padding: 24px">
+<div class="block--centered custom-ray-tilt__table">
 <div>0.1º</div>
 <div>1.7º</div>
 <div>4.3º</div>
