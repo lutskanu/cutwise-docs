@@ -31,7 +31,9 @@ Tolkowsky
 </p>
 
 <p align="center">
-<img style="width: 400px; height: 400px;" src="/images/arrows3.png" alt="">
+<div class="block--centered">
+<img src="/images/arrows3.png" alt="">
+</div>
 </p>
 <p align="center">
 Ca 34.5, Pa 40.8

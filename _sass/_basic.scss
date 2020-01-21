@@ -272,6 +272,20 @@ textarea {
 				max-width: 100%;
 			}
 		}
+
+		img.custom-vertical-variation {
+			max-width: 60%;
+		}
+
+		video.custom-vertical-variation {
+			max-width: 38%;
+		}
+
+		img.custom-vertical-variation, video.custom-vertical-variation {
+			@include mq(phonel) {
+				max-width: 100%;
+			}
+		}
 	}
 
 	&--mediumed {
@@ -317,4 +331,10 @@ textarea {
 	@include mq(phonel) {
 		display: block;
 	}
+}
+
+.block--centered {
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }

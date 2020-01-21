@@ -300,43 +300,19 @@
     border: 1px solid $border-color;
     border-radius: 8px;
     position: relative;
-    display: inline-flex;
+    //display: inline-flex;
+    display: flex;
     align-items: center;
     justify-content: space-between;
-  }
-
-  .prev-post::before,
-  .next-post::before {
-    display: block;
-    @extend .label--small;
-    margin-bottom: 8px;
-  }
-
-  .prev-post::before {
-    content: "Previous Post";
-  }
-
-  .next-post::before {
-  }
-
-  .prev-post::after,
-  .next-post::after {
-    content: "";
-    display: block;
-    width: 20px;
-    height: 12px;
-    background: url($baseurl + "/images/icons/arrow-left-gray.svg") center center no-repeat;
-    position: absolute;
-    top: calc(50% - 6px);
-  }
-
-  .next-post::after {
-    right: 30px;
-    transform: rotate(180deg);
+    flex: 0 1 auto;
   }
 
   .prev-post {
     text-align: right;
+  }
+
+  .next-post .post-arrow {
+    transform: rotate(180deg)
   }
 
   @include mq(tabletp) {
@@ -347,4 +323,10 @@
 a.reversefootnote {
   border-bottom: 0;
   vertical-align: sub;
+}
+
+.post-title {
+  @include mq(phonel) {
+    max-width: 240px;
+  }
 }

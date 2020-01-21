@@ -96,7 +96,7 @@ Generally Ca-Pa chart can be divided into 3 main areas:
 
 <div class="card">
 <div class="card__media card__media--paired">
-<img style="max-width: 60%" src="/images/page-sweetline-aset6.jpg" alt="">
-<video style="max-width: 38%" autoplay loop muted playsinline src="http://files-cdn.cutwise.com/Video/Vertical_Office_Merge-40.2-40.8-41.4Pa.mov"></video>
+<img class="custom-vertical-variation" src="/images/page-sweetline-aset6.jpg" alt="">
+<video class="custom-vertical-variation" autoplay loop muted playsinline src="http://files-cdn.cutwise.com/Video/Vertical_Office_Merge-40.2-40.8-41.4Pa.mov"></video>
 </div>
 </div>
