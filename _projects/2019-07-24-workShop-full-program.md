@@ -13,7 +13,7 @@ date: 2020-01-17 00:00:00
   <li>1. Diamond optical performance basis</li>
   <ul>
   <li>1.01 A diamond as a set of mirrors. Virtual facets in diamond</li>
-  <li>1.02 The variety of diamond cutting styles & shapes</li>
+  <li><a class="link--accented" id="fnref:0" href="#fn:0">1.02 The variety of diamond cutting styles & shapes</a></li>
   <li>1.03 Strengths and weaknesses of common diamond evaluation tools & systems (ASET, H&A, HCA, Facetware)</li>
   <li>1.04 Optical illusions. Explanation of Spatial and Temporal Rivalry in Diamond</li>
   <li>1.05 Importance of Stereo Vision for Diamond Perception</li>
@@ -60,6 +60,25 @@ date: 2020-01-17 00:00:00
   </ul>
   
 </ul>
+
+---
+
+<h4 id="fn:0">1.02 The variety of diamond cutting styles & shapes<a href="#fnref:0" class="reversefootnote">
+<img src="/images/icons/arrow-back-with-tail.svg" alt="">
+</a></h4>
+
+<div class="card">
+<div class="card__description">
+Diamonds are polished in wide range of cuts defined by different girdle shapes and facet patterns. Here we see only a few examples of stones with different girdle outline.
+What is the point of polishing so different diamond shapes and patterns?
+</div>
+<div class="card__media card__media--mediumed">
+<img src="https://files-cdn.cutwise.com/workshop/shapes/Slide11_1_shape-collection-resized.mp4" alt="">
+</div>
+<div class="card__link">
+<a href="/blog/ray-path-in-round-diamond" class="project__link button--text --right" style="color: #4A90E2; --color-var: #4A90E2">Read more</a>
+</div>
+</div>
 
 ---
 
