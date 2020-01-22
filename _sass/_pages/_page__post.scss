@@ -286,6 +286,10 @@
       .video-wrap,
       .highlighter-rouge {
         margin: 40px auto;
+
+        [alt='ray-path'] {
+          max-width: 75%;
+        }
       }
     }
   }
@@ -300,8 +304,7 @@
     border: 1px solid $border-color;
     border-radius: 8px;
     position: relative;
-    //display: inline-flex;
-    display: flex;
+    display: inline-flex;
     align-items: center;
     justify-content: space-between;
     flex: 0 1 auto;
