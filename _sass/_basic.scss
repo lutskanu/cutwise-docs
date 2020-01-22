@@ -361,9 +361,9 @@ textarea {
 }
 
 .custom-dibox-jd-video {
-  width: 64%;
+  width: 100%;
 
   @include mq(tabletp) {
-    width: 100%;
+    width: 64%;
   }
 }
