@@ -10,7 +10,7 @@ In Chapter is described how the Tolkowsky Round works. And what will happen if w
 
 Let’s consider optical theory for arrow facet under the table. Right eye see white flash reflected from the light source on the right.
 
-![](/images/page1-pic1.png)
+![ray-path](/images/page1-pic1.png)
 
 The same area is black for left eye, because it **see the observer’s head reflection**.
 
@@ -19,7 +19,7 @@ So in one area of space our eye see very different and contradictive images:
 * — and black head reflection.
 Difference in signal intensity is more than 1000 times.
 
-![](/images/page1-pic2.png)
+![ray-path](/images/page1-pic2.png)
 
 #### How Round Diamond Cut works?
 
