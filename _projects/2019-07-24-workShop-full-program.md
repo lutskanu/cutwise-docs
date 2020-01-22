@@ -73,7 +73,7 @@ Diamonds are polished in wide range of cuts defined by different girdle shapes a
 What is the point of polishing so different diamond shapes and patterns?
 </div>
 <div class="card__media card__media--mediumed">
-<img src="https://files-cdn.cutwise.com/workshop/shapes/Slide11_1_shape-collection-resized.mp4" alt="">
+<video autoplay loop muted playsinline src="https://files-cdn.cutwise.com/workshop/shapes/Slide11_1_shape-collection-resized.mp4"></video>
 </div>
 <div class="card__link">
 <a href="/blog/ray-path-in-round-diamond" class="project__link button--text --right" style="color: #4A90E2; --color-var: #4A90E2">Read more</a>
