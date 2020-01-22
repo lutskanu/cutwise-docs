@@ -32,7 +32,7 @@ Tolkowsky
 
 <p align="center">
 <div class="block--centered">
-<img style="width: 320px; height: 320px;" src="/images/arrows3.png" alt="">
+<img style="width: 320px; height: 330px;" src="/images/arrows3.png" alt="">
 </div>
 </p>
 <p align="center">
@@ -49,7 +49,7 @@ And two deeper stones: one with Pa 41.6, and another very deep “Nail Head” d
 Very Shallow
 </div>
 <div class="card__media">
-<img style="width: 200px; height: 200px;" src="/images/arrows1.png" alt="">
+<img style="width: 200px; height: 210px;" src="/images/arrows1.png" alt="">
 </div>
 <div class="card__description card__description--centered">
 Ca 25 Pa 39
@@ -61,7 +61,7 @@ Ca 25 Pa 39
 Shallow
 </div>
 <div class="card__media">
-<img style="width: 200px; height: 200px;" src="/images/arrows2.png" alt="">
+<img style="width: 200px; height: 210px;" src="/images/arrows2.png" alt="">
 </div>
 <div class="card__description card__description--centered">
 Ca 34.5, Pa 39.6
@@ -73,7 +73,7 @@ Ca 34.5, Pa 39.6
 Tolkowsky
 </div>
 <div class="card__media">
-<img style="width: 200px; height: 200px;" src="/images/arrows3.png" alt="">
+<img style="width: 200px; height: 210px;" src="/images/arrows3.png" alt="">
 </div>
 <div class="card__description card__description--centered">
 Ca 34.5, Pa 40.8
@@ -85,7 +85,7 @@ Ca 34.5, Pa 40.8
 Deep
 </div>
 <div class="card__media">
-<img style="width: 200px; height: 200px;" src="/images/arrows4.png" alt="">
+<img style="width: 200px; height: 210px;" src="/images/arrows4.png" alt="">
 </div>
 <div class="card__description card__description--centered">
 Ca 34.5, Pa 41.8
@@ -97,7 +97,7 @@ Ca 34.5, Pa 41.8
 “Nail Head”
 </div>
 <div class="card__media">
-<img style="width: 200px; height: 200px;" src="/images/arrows5.png" alt="">
+<img style="width: 200px; height: 210px;" src="/images/arrows5.png" alt="">
 </div>
 <div class="card__description card__description--centered">
 Ca 34.5, Pa 43.6
