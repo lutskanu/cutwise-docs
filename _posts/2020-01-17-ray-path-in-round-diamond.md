@@ -14,9 +14,10 @@ Let’s consider optical theory for arrow facet under the table. Right eye see w
 
 The same area is black for left eye, because it **see the observer’s head reflection**.
 
-So in one area of space our eye see very different and contradictive images:
+So in one area of space our eyes see very different and contradictory images:
 * — white light source reflection flash
 * — and black head reflection.
+
 Difference in signal intensity is more than 1000 times.
 
 ![](/images/page1-pic2.png)
@@ -24,7 +25,7 @@ Difference in signal intensity is more than 1000 times.
 #### How Round Diamond Cut works?
 
 We described how the Tolkowsky Round works. Let’s check now Rounds with different proportions.
-What will happened if we will decrease or increase Pavilion angle.
+What will happen if we will decrease or increase Pavilion angle.
 
 <p align="center">
 Tolkowsky
@@ -106,7 +107,7 @@ Ca 34.5, Pa 43.6
 
 </div>
 
-Now let’s check shallow diamond. It return the ray from Right eye directly to the observer head. So marked arrow is black.
+Now let’s check shallow diamond. It returns the ray from Right eye directly to the observer head. So marked arrow is black.
 
 Left eye also see black, because of observer’s body reflection.
 So both eyes see black and reflects observer head. This is worst case scenario. Arrows in such stone in completely black (because there is no chance to have a light source in observer’s head area).
@@ -139,9 +140,7 @@ So deep diamond has selected facet white in both eyes. We already considered thi
 	images = "/images/page1-pic10.png,/images/page1-pic11.png"
 %}
 
-Nail head stone will give full internal reflection and redirect light to the observer head.
-
-So deep diamond has selected facet white in both eyes. We already considered this case earlier.
+"Nail head" stone will give full internal reflection and redirect light to the observer head.
 
 {% include post-components/gallery.html
 	columns = 2
@@ -179,7 +178,7 @@ When consumer rocks the diamond during the observation – the ray path for face
 <div>0.7º</div>
 </div>
 
-In this demonstration we tilt diamond by 10 degrees. Very shallow diamond and nail head reflects the same area in space during this rotation. It means that these stones reflection of observer’s head is very stable. And even during rotation they will remain black creating ”Dead zones” effect (areas in diamond that always remain black). This results very bad performance of these stones.
+In this demonstration we tilt diamond by 10 degrees. Very shallow diamond and "Nail head" reflects the same area in space during this rotation. It means that these stones reflection of observer’s head is very stable. And even during rotation they will remain black creating ”Dead zones” effect (areas in diamond that always remain black). This results very bad performance of these stones.
 
 Shallow diamond change ray path angle by 1.7 degrees.
 Tolkowsky displays 4.3 degrees ray angle variation. And Deep stone has highest value among selected stones.
