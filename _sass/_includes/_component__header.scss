@@ -41,7 +41,6 @@
     justify-content: center;
     width: 100vw;
     height: 100vh;
-    //background-color: white;
     position: fixed;
     top: 10px;
     left: 0;
@@ -61,7 +60,7 @@
     padding: 64px 0;
 
     .wrap {
-      grid-template-columns: 1fr 3fr;
+      grid-template-columns: 1fr 1fr 1fr;
     }
 
     .header__menu {
