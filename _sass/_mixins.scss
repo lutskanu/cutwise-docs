@@ -29,11 +29,11 @@ $break-desktop: 1420px;
       @content;
     }
   } @else if $media == tabletp {
-    @media only screen and (min-width: $break-tabletp) {
+    @media only screen and (max-width: $break-tabletp) {
       @content;
     }
   } @else if $media == tabletl {
-    @media only screen and (min-width: $break-tabletl) {
+    @media only screen and (max-width: $break-tabletl) {
       @content;
     }
   } @else if $media == laptop {

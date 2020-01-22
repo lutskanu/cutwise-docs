@@ -359,3 +359,11 @@ textarea {
 .custom-full-program-padding {
   padding-left: 0 !important;
 }
+
+.custom-dibox-jd-video {
+  width: 64%;
+
+  @include mq(tabletp) {
+    width: 100%;
+  }
+}
