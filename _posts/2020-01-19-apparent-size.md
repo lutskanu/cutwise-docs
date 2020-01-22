@@ -11,7 +11,7 @@ Diamond with the same weight can have different visible size depending on their 
 <div class="widget-proportions">
 <iframe
     name="Cutwise Widget"
-    width="100%"
+    width="90%"
     height="730px"
     frameborder="0"
     src="https://widget.cutwise.com/report/v1/37753#proportions"
@@ -35,11 +35,11 @@ Diamond with the same weight can have different visible size depending on their 
 
 #### Consider Apparent size for 1 ct Marquise
 
-![](/images/page-spread-illustration-01.png)
+![apparent-size](/images/page-spread-illustration-01.png)
 
 Round with Same Face up Area as Marquise has weight 1.29ct
 
-![](/images/page-spread-illustration-02.png)
+![apparent-size](/images/page-spread-illustration-02.png)
 
 Absolute Apparent size (Spread) shows how much heavier or lighter will be Round with same Face up area as Marquise.
 
@@ -47,7 +47,7 @@ Round with same Face up area will be 0.29 ct heavier than current 1.0 ct Marquis
 
 Absolute Apparent size value depends on the current diamond weight
 
-![](/images/page-spread-illustration-03.png)
+![apparent-size](/images/page-spread-illustration-03.png)
 
 Relative Apparent size shows weight ratio between current Diamond and Round with Same Face up area.
 
@@ -55,11 +55,11 @@ Round with same Face up area will be 22% heavier than current Marquise.
 
 Relative Apparent size value does not depend on diamond weight. Thus allow comparison between diamonds with different Weight
 
-![](/images/page-spread-illustration-04.png)
+![apparent-size](/images/page-spread-illustration-04.png)
 
 #### Consider Apparent size for this 1 ct Cushion
 
-![](/images/page-spread-illustration-05.png)
+![apparent-size](/images/page-spread-illustration-05.png)
 
 Round with Same Face up Area as Cushion has weight 0.78ct
 

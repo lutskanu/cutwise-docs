@@ -107,7 +107,7 @@ In Chapter is described how the Tolkowsky Round works. And what will happen if w
 <div class="card__description">
 Find out what is Apparent size and how this parameter can be used for diamond selection
 </div>
-<div class="card__media card__media--smalled">
+<div class="card__media card__media--mediumed">
 <img src="https://files-cdn.cutwise.com/workshop/spread/spread-illustration-00.jpg" alt="">
 </div>
 <div class="card__link">
