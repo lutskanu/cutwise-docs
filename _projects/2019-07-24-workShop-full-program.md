@@ -142,7 +142,7 @@ DiBox JD is special observation box that allow consumer comfortably enjoy differ
 <div class="card">
 <div class="card__description">
 DiBox JD allow two diamond to be compared side by side in equivalent and consistent lighting conditions.
-Two cushions on the Right have similar 4C, but different Performance, including Brilliance and Fire.
+These two cushions have similar 4C, but different Performance, including Brilliance and Fire.
 Side by side comparison can help consumers select diamond according to their own preference.
 </div>
 <div class="card__media">
