@@ -13,7 +13,7 @@ date: 2020-01-17 00:00:00
   <li>1. Diamond optical performance basis</li>
   <ul>
   <li>1.01 A diamond as a set of mirrors. Virtual facets in diamond</li>
-  <li><a class="link--accented" id="fnref:0" href="#fn:0">1.02 The variety of diamond cutting styles & shapes</a></li>
+  <li><a class="link--accented" id="fnref:9" href="#fn:9">1.02 The variety of diamond cutting styles & shapes</a></li>
   <li>1.03 Strengths and weaknesses of common diamond evaluation tools & systems (ASET, H&A, HCA, Facetware)</li>
   <li>1.04 Optical illusions. Explanation of Spatial and Temporal Rivalry in Diamond</li>
   <li>1.05 Importance of Stereo Vision for Diamond Perception</li>
@@ -63,7 +63,7 @@ date: 2020-01-17 00:00:00
 
 ---
 
-<h4 id="fn:0">1.02 The variety of diamond cutting styles & shapes<a href="#fnref:0" class="reversefootnote">
+<h4 id="fn:9">1.02 The variety of diamond cutting styles & shapes<a href="#fnref:9" class="reversefootnote">
 <img src="/images/icons/arrow-back-with-tail.svg" alt="">
 </a></h4>
 
@@ -76,7 +76,7 @@ What is the point of polishing so different diamond shapes and patterns?
 <video autoplay loop muted playsinline src="https://files-cdn.cutwise.com/workshop/shapes/Slide11_1_shape-collection-resized.mp4"></video>
 </div>
 <div class="card__link">
-<a href="/blog/ray-path-in-round-diamond" class="project__link button--text --right" style="color: #4A90E2; --color-var: #4A90E2">Read more</a>
+<a href="/blog/styles-and-shapes" class="project__link button--text --right" style="color: #4A90E2; --color-var: #4A90E2">Read more</a>
 </div>
 </div>
 
