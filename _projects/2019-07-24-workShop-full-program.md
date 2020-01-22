@@ -90,7 +90,7 @@ In Chapter is described how the Tolkowsky Round works. And what will happen if w
 In Chapter is described how the Tolkowsky Round works. And what will happen if we will decrease or increase diamond Pavilion angle.
 </div>
 <div class="card__media card__media--mediumed">
-<img src="/images/Office-04-SL.jpg" alt="">
+<img src="https://files-cdn.cutwise.com/workshop/sweet-line/Office-00-Start.jpg" alt="">
 </div>
 <div class="card__link">
 <a href="/blog/sweet-line-in-round-diamonds" class="project__link button--text --right" style="color: #4A90E2; --color-var: #4A90E2">Read more</a>

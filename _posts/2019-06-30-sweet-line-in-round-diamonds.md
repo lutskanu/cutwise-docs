@@ -23,7 +23,7 @@ Violet square highlights Tolkowsky proportions. The borders of the GIA EX area a
 
 <div class="card">
 <div class="card__media card__media--paired">
-<img src="/images/page-sweetline-aset1.jpg" alt="">
+<img src="https://files-cdn.cutwise.com/workshop/sweet-line/ASET-01.jpg" alt="">
 <video autoplay loop muted playsinline src="http://files-cdn.cutwise.com/Video/Office-01.mp4"></video>
 </div>
 </div>
@@ -38,7 +38,7 @@ It can be seen that the diamond with Pa 41.4 is very different from Tolkowsky bo
 
 <div class="card">
 <div class="card__media card__media--paired">
-<img src="/images/page-sweetline-aset2.jpg" alt="">
+<img src="https://files-cdn.cutwise.com/workshop/sweet-line/ASET-02.jpg" alt="">
 <video autoplay loop muted playsinline src="http://files-cdn.cutwise.com/Video/Office-02.mp4"></video>
 </div>
 </div>
@@ -53,7 +53,7 @@ The resulting proportions of Ca 31.5 Pa 41.4 will be optically close to Tolkowsk
 
 <div class="card">
 <div class="card__media card__media--paired">
-<img src="/images/page-sweetline-aset3.jpg" alt="">
+<img src="https://files-cdn.cutwise.com/workshop/sweet-line/ASET-03.jpg" alt="">
 <video autoplay loop muted playsinline src="http://files-cdn.cutwise.com/Video/Office-03.mp4"></video>
 </div>
 </div>
@@ -66,7 +66,7 @@ Diamond proportions positioned on Sweet line can be produced to increase yield a
 
 <div class="card">
 <div class="card__media card__media--paired">
-<img src="/images/page-sweetline-aset4.jpg" alt="">
+<img src="https://files-cdn.cutwise.com/workshop/sweet-line/ASET-04.jpg" alt="">
 <video autoplay loop muted playsinline src="http://files-cdn.cutwise.com/Video/Office-04-SL.mp4"></video>
 </div>
 </div>
@@ -77,7 +77,7 @@ The reverse line to Sweet line is called Anti Sweet (Bitter) line. Movement alon
 
 <div class="card">
 <div class="card__media card__media--paired">
-<img src="/images/page-sweetline-aset5.jpg" alt="">
+<img src="https://files-cdn.cutwise.com/workshop/sweet-line/ASET-05.jpg" alt="">
 <video autoplay loop muted playsinline src="http://files-cdn.cutwise.com/Video/Office-05-ASL.mp4"></video>
 </div>
 </div>
@@ -96,7 +96,7 @@ Generally Ca-Pa chart can be divided into 3 main areas:
 
 <div class="card">
 <div class="card__media card__media--paired">
-<img class="custom-vertical-variation" src="/images/page-sweetline-aset6.jpg" alt="">
-<video class="custom-vertical-variation" autoplay loop muted playsinline src="http://files-cdn.cutwise.com/Video/Vertical_Office_Merge-40.2-40.8-41.4Pa.mov"></video>
+<img class="custom-vertical-variation" src="https://files-cdn.cutwise.com/workshop/sweet-line/ASET-06.jpg" alt="">
+<video class="custom-vertical-variation" autoplay loop muted playsinline src="https://files-cdn.cutwise.com/workshop/sweet-line/Vertical_Office_Merge-40.2-40.8-41.mp4"></video>
 </div>
 </div>
