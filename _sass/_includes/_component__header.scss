@@ -61,7 +61,7 @@
     padding: 64px 0;
 
     .wrap {
-      grid-template-columns: 1fr 1fr 1fr;
+      grid-template-columns: 1fr 2fr 1fr;
     }
 
     .header__menu {
@@ -78,7 +78,7 @@
 
     .header__menu,
     .header__cta {
-      display: none;
+      display: block;
     }
   }
 }
