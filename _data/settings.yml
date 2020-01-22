@@ -12,10 +12,10 @@ menu_settings:
       url: '/'
     - title: 'Cutwise'
       url: 'https://cutwise.com/'
-    - title: 'What’s New'
-      url: 'https://octonus-teams.com/wiki/display/CUDO/Release+Notes'
-    - title: 'Contacts'
-      url: 'https://octonus-teams.com/wiki/display/CUDO/About+Cutwise+Team'
+#    - title: 'What’s New'
+#      url: 'https://octonus-teams.com/wiki/display/CUDO/Release+Notes'
+#    - title: 'Contacts'
+#      url: 'https://octonus-teams.com/wiki/display/CUDO/About+Cutwise+Team'
 
 footer_settings:
   logo_image:
