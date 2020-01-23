@@ -8,7 +8,7 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Workshops'
+    - title: 'Performance Workshop'
       url: '/'
     - title: 'Cutwise'
       url: 'https://cutwise.com/'
