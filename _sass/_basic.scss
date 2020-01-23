@@ -367,3 +367,8 @@ textarea {
     width: 64%;
   }
 }
+
+.custom-flex-end {
+  display: flex !important;
+  justify-content: flex-end !important;
+}

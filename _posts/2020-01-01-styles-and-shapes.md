@@ -11,18 +11,21 @@ These stones are different in shape, but also in Beauty, Optical Performance.
 <p align="center">
 <video class="custom-dibox-jd-video" autoplay loop muted playsinline src="https://files-cdn.cutwise.com/workshop/shapes/Slide11_1_shape-collection-resized.mp4"></video>
 </p>
+<a href="https://cutwise.com/~bvU6" class="project__link button--text --right custom-flex-end" style="color: #4A90E2; --color-var: #4A90E2">GO TO COLLECTION</a>
 
 If we take a closer look on Cushion girdle shape we will find a variety of cushion patterns that result in different performance.
 
 <p align="center">
 <video class="custom-dibox-jd-video" autoplay loop muted playsinline src="https://files-cdn.cutwise.com/workshop/shapes/slide12_2_cushions-collection-resized.mp4"></video>
 </p>
+<a href="https://cutwise.com/~pItk" class="project__link button--text --right custom-flex-end" style="color: #4A90E2; --color-var: #4A90E2">GO TO COLLECTION</a>
 
 The same is valid for all diamond shapes. Here you can see different patterns for Ovals.
 
 <p align="center">
 <video class="custom-dibox-jd-video" autoplay loop muted playsinline src="https://files-cdn.cutwise.com/workshop/shapes/slide13_2_ovals-collection-resized.mp4"></video>
 </p>
+<a href="https://cutwise.com/~FfiN" class="project__link button--text --right custom-flex-end" style="color: #4A90E2; --color-var: #4A90E2">GO TO COLLECTION</a>
 
 Even such simple shape as Round is polished in a variety of designs and patterns.
 
@@ -34,3 +37,4 @@ These opportunities should be available not only for specialists (gemmologists a
 <p align="center">
 <video class="custom-dibox-jd-video" autoplay loop muted playsinline src="https://files-cdn.cutwise.com/workshop/shapes/slide15_rounds-collection-resized.mp4"></video>
 </p>
+<a href="https://cutwise.com/~FfiN" class="project__link button--text --right custom-flex-end" style="color: #4A90E2; --color-var: #4A90E2">GO TO COLLECTION</a>
