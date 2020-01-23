@@ -1,7 +1,9 @@
 ---
-title: The vibrant way of point-of-sale communication: controlled balance of messages for right and left brain sides
+title:
 date: 2020-01-17 00:00:00
 ---
+
+The vibrant way of point-of-sale communication: controlled balance of messages for right and left brain sides
 
 **Who this course is for**
 <ol type="disc" class="custom-full-program-padding">
