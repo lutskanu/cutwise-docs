@@ -37,4 +37,4 @@ These opportunities should be available not only for specialists (gemmologists a
 <p align="center">
 <video class="custom-dibox-jd-video" autoplay loop muted playsinline src="https://files-cdn.cutwise.com/workshop/shapes/slide15_rounds-collection-resized.mp4"></video>
 </p>
-<a href="https://cutwise.com/~FfiN" class="project__link button--text --right custom-flex-end" style="color: #4A90E2; --color-var: #4A90E2">GO TO COLLECTION</a>
+<a href="https://cutwise.com/~DnqT" class="project__link button--text --right custom-flex-end" style="color: #4A90E2; --color-var: #4A90E2">GO TO COLLECTION</a>
