@@ -5,9 +5,7 @@ date: 2020-01-17 00:00:00
 
 ##### The vibrant way of point-of-sale communication: controlled balance of messages for right and left brain sides
 
----
-
-<video autoplay loop muted playsinline src="https://files-cdn.cutwise.com/workshop/Triangular-proximity-2019-05-14_for-presentation3_1.mp4"></video>
+<video style:"width:75%" autoplay loop muted playsinline src="https://files-cdn.cutwise.com/workshop/Triangular-proximity-2019-05-14_for-presentation3_1.mp4"></video>
 
 Communication in a diamond shop may start with a dynamic chart, similar to the one presented here. Consumer sees that diamond can be beautiful in different ways and can make different types of impressions.
 Salesperson clarifies the role of the lighting and follows the consumer's preferred left- or right- brain side language to select the most personality-matching diamond option.
