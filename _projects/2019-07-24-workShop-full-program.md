@@ -165,8 +165,8 @@ These two cushions have similar 4C, but different Performance, including Brillia
 Side by side comparison can help consumers select diamond according to their own preference.
 </div>
 <div class="card__media">
-<div class="widget"><iframe name="Cutwise Player" width="100%" height="100%" frameborder="0" src="https://widget.cutwise.com/video/37626?sp=43" allowfullscreen></iframe></div>
-<div class="widget"><iframe name="Cutwise Player" width="100%" height="100%" frameborder="0" src="https://widget.cutwise.com/video/37627?sp=43" allowfullscreen></iframe></div>
+<div class="widget"><iframe name="Cutwise Player" width="100%" height="100%" frameborder="0" src="https://widget.cutwise.com/video/37626?sp=43&autoplay=1&autofocus=0&hq=1" allowfullscreen></iframe></div>
+<div class="widget"><iframe name="Cutwise Player" width="100%" height="100%" frameborder="0" src="https://widget.cutwise.com/video/37627?sp=43&autoplay=1&autofocus=0&hq=1" allowfullscreen></iframe></div>
 </div>
 <div class="card__link">
 <a href="/blog/dibox-jd" class="project__link button--text --right" style="color: #4A90E2; --color-var: #4A90E2">Read more</a>
