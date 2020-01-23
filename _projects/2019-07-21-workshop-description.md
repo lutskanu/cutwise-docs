@@ -25,8 +25,10 @@ The vibrant way of point-of-sale communication: controlled balance of messages f
 
 <video class="custom-workshop-intro-adapted-video" autoplay loop muted playsinline src="https://files-cdn.cutwise.com/workshop/Triangular-proximity-2019-05-14_for-presentation3_1.mp4"></video>
 
+<p style="margin-top: 12px">
 Communication in a diamond shop may start with a dynamic chart, similar to the one presented here. Consumer sees that diamond can be beautiful in different ways and can make different types of impressions.
 Salesperson clarifies the role of the lighting and follows the consumer's preferred left- or right- brain side language to select the most personality-matching diamond option.
+</p>
 
 ---
 
