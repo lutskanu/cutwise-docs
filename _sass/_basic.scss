@@ -376,3 +376,11 @@ textarea {
   display: flex !important;
   justify-content: flex-end !important;
 }
+
+.custom-workshop-intro-adapted-video {
+  width: 70%;
+
+  @include mq(laptop) {
+    width: 100%;
+  }
+}

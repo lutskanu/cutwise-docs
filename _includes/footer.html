@@ -12,6 +12,19 @@
         </a>
         {% endif %}
 
+        <div class="footer__navbar">
+            {% for item in site.data.settings.menu_settings.menu_items %}
+                {% if site.data.settings.menu_settings.menu_items[0] == item %}
+                <a href="{{ item.url | relative_url }}" class="header__cta menu__list__item__link button--text">{{
+                    item.title }}</a>
+                {% else %}
+                |
+                <a href="{{ item.url | relative_url }}" class="header__cta menu__list__item__link button--text">{{
+                    item.title }}</a>
+                {% endif %}
+            {% endfor %}
+        </div>
+
         <div class="footer__copyright">
             {% if site.data.settings.footer_settings.tagline %}
             <p>{{ site.data.settings.footer_settings.tagline }}</p>

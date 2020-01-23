@@ -23,7 +23,7 @@ date: 2020-01-17 00:00:00
 
 ---
 
-<video style="width:70%" autoplay loop muted playsinline src="https://files-cdn.cutwise.com/workshop/Triangular-proximity-2019-05-14_for-presentation3_1.mp4"></video>
+<video class="custom-workshop-intro-adapted-video" autoplay loop muted playsinline src="https://files-cdn.cutwise.com/workshop/Triangular-proximity-2019-05-14_for-presentation3_1.mp4"></video>
 
 Communication in a diamond shop may start with a dynamic chart, similar to the one presented here. Consumer sees that diamond can be beautiful in different ways and can make different types of impressions.
 Salesperson clarifies the role of the lighting and follows the consumer's preferred left- or right- brain side language to select the most personality-matching diamond option.
@@ -125,7 +125,7 @@ The course provides powerful tools to promote interactively your and your partne
 
 <ol>
 <li>May 17th, 2019, 600 euros per person, 8 pax maximum, the Diamond Optical Performance Course only</li>
-<li>May 19th, 2019 as one of the workshops of the 6th Mediterranian Conference, 8 pax maximum, please see the price options at the official <a target='_blank' rel='noopener noreferrer' href="https://www.gemconference.com/workshops">Conference site</a>.</li>
+<li>May 19th, 2019 as one of the workshops of the 6th Mediterranian Conference, 8 pax maximum, please see the price options at the official <a class="project__link" style="color: #4A90E2; --color-var: #4A90E2" target='_blank' rel='noopener noreferrer' href="https://www.gemconference.com/workshops">Conference site</a>.</li>
 </ol>
 
 **Location**
