@@ -248,12 +248,12 @@
     }
   }
 
+  .post__title {
+    margin-bottom: 24px;
+  }
+
   @include mq(tabletp) {
     .post__header {
-    }
-
-    .post__title {
-      margin-bottom: 24px;
     }
 
     .post__date {
