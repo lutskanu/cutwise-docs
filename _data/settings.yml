@@ -14,6 +14,8 @@ menu_settings:
       url: '/blog/workshop-full-program'
     - title: 'Cutwise'
       url: 'https://cutwise.com/'
+    - title: 'Contuct us'
+      url: 'mailto:info@cutwise.com'
 #    - title: 'What’s New'
 #      url: 'https://octonus-teams.com/wiki/display/CUDO/Release+Notes'
 #    - title: 'Contacts'
