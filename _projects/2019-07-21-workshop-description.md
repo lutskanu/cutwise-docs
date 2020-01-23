@@ -5,13 +5,6 @@ date: 2020-01-17 00:00:00
 
 ##### The vibrant way of point-of-sale communication: controlled balance of messages for right and left brain sides
 
-<video style="width:75%" autoplay loop muted playsinline src="https://files-cdn.cutwise.com/workshop/Triangular-proximity-2019-05-14_for-presentation3_1.mp4"></video>
-
-Communication in a diamond shop may start with a dynamic chart, similar to the one presented here. Consumer sees that diamond can be beautiful in different ways and can make different types of impressions.
-Salesperson clarifies the role of the lighting and follows the consumer's preferred left- or right- brain side language to select the most personality-matching diamond option.
-
----
-
 **Who this course is for**
 <ol type="disc" class="custom-full-program-padding">
   <li>The course is critically important for <b>sales directors and sales team supervisors</b> in diamond retail, both on- and off-line formats, because it:</li>
@@ -27,6 +20,15 @@ Salesperson clarifies the role of the lighting and follows the consumer's prefer
       <li style="list-style-type: circle">allows to win leadership with <b>hi-tech product innovation</b>.</li>
     </ol>
 </ol>
+
+---
+
+<video style="width:75%" autoplay loop muted playsinline src="https://files-cdn.cutwise.com/workshop/Triangular-proximity-2019-05-14_for-presentation3_1.mp4"></video>
+
+Communication in a diamond shop may start with a dynamic chart, similar to the one presented here. Consumer sees that diamond can be beautiful in different ways and can make different types of impressions.
+Salesperson clarifies the role of the lighting and follows the consumer's preferred left- or right- brain side language to select the most personality-matching diamond option.
+
+---
 
 **Why the technologies and the course are needed**
 _There are unaddressed opportunities in the diamond market. New technologies withdraw the existing obstacles._
