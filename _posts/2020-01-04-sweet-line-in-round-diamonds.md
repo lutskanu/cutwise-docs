@@ -1,6 +1,6 @@
 ---
 title: Sweet Line in Round Diamonds
-date: 2020-01-18 00:00:00
+date: 2020-01-04 00:00:00
 description: Consider two dimensional Ca-Pa variations of the round parameters
 
 featured_image: ''

@@ -1,6 +1,6 @@
 ---
 title: Apparent Size
-date: 2020-01-19 00:00:00
+date: 2020-01-05 00:00:00
 description: Find out what is Apparent size and how this parameter can be used for diamond selection
 
 featured_image: ''

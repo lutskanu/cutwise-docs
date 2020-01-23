@@ -1,6 +1,6 @@
 ---
 title: WorkShop full program
-date: 2020-01-17 00:00:00
+date: 2020-01-01 00:00:00
 description: Live comparison of two stones - Emerald and Princess, Rounds 6 mm and 2 mm
 
 ---

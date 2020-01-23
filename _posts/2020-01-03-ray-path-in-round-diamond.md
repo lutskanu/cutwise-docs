@@ -1,6 +1,6 @@
 ---
 title: Ray Path in Round Diamond
-date: 2020-01-15 00:00:00
+date: 2020-01-03 00:00:00
 description: How stereo defines round diamond performance
 
 featured_image: ''
