@@ -11,7 +11,7 @@ menu_settings:
     - title: 'Description'
       url: '/'
     - title: 'Program'
-      url: '/blog/workShop-full-program'
+      url: '/blog/workshop-full-program'
     - title: 'Cutwise'
       url: 'https://cutwise.com/'
 #    - title: 'What’s New'
