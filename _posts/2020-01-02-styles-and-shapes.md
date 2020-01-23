@@ -1,5 +1,5 @@
 ---
-title: The variety of diamond cutting styles & shapes
+title: The Variety of Diamond Cutting Styles & Shapes
 date: 2020-01-02 00:00:00
 description: Diamonds are polished in wide range of cuts defined by different girdle shapes and facet patterns.
 
