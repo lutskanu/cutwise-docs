@@ -1,5 +1,5 @@
 ---
-title: WorkShop full program
+title: Workshop Full Program
 date: 2020-01-01 00:00:00
 description: Live comparison of two stones - Emerald and Princess, Rounds 6 mm and 2 mm
 
@@ -11,7 +11,7 @@ description: Live comparison of two stones - Emerald and Princess, Rounds 6 mm a
     <li>0.01 Introduction</li>
     <li>0.02 Diamonds Sales process</li>
   </ul>
-  
+
   <li>1. Diamond optical performance basis</li>
   <ul>
   <li>1.01 A diamond as a set of mirrors. Virtual facets in diamond</li>
@@ -38,7 +38,7 @@ description: Live comparison of two stones - Emerald and Princess, Rounds 6 mm a
   <li>2.04 Round diamond proportions selection in Helmet</li>
   <li>2.05 Diamond Clarity in Helmets</li>
   </ul>
-  
+
   <li>3. Diamond Collections & Filters</li>
   <ul>
   <li>3.01 Online Diamond Search with standard and Performance filters</li>
