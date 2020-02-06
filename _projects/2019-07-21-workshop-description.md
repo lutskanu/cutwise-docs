@@ -126,8 +126,8 @@ The course provides powerful tools to promote interactively your and your partne
 **Dates and prices**
 
 <ol>
-<li>May 17th, 2019, 600 euros per person, 8 pax maximum, the Diamond Optical Performance Course only</li>
-<li>May 19th, 2019 as one of the workshops of the 6th Mediterranian Conference, 8 pax maximum, please see the price options at the official <a class="project__link" style="color: #4A90E2; --color-var: #4A90E2" target='_blank' rel='noopener noreferrer' href="https://www.gemconference.com/workshops">Conference site</a>.</li>
+<li>May 17th, 2020, 600 euros per person, 8 pax maximum, the Diamond Optical Performance Course only</li>
+<li>May 19th, 2020 as one of the workshops of the 6th Mediterranian Conference, 8 pax maximum, please see the price options at the official <a class="project__link" style="color: #4A90E2; --color-var: #4A90E2" target='_blank' rel='noopener noreferrer' href="https://www.gemconference.com/workshops">Conference site</a>.</li>
 </ol>
 
 **Location**
